@@ -1,0 +1,1509 @@
+INFO:root:Checking if hack folder exists
+INFO:root:Checking if scholastic folder exists
+INFO:root:Checking if data exists
+INFO:root:fetched data.json
+INFO:root:Opening Main Page
+INFO:root:Set color to: #2b2b28
+DEBUG:PIL.Image:Importing BlpImagePlugin
+DEBUG:PIL.Image:Importing BmpImagePlugin
+DEBUG:PIL.Image:Importing BufrStubImagePlugin
+DEBUG:PIL.Image:Importing CurImagePlugin
+DEBUG:PIL.Image:Importing DcxImagePlugin
+DEBUG:PIL.Image:Importing DdsImagePlugin
+DEBUG:PIL.Image:Importing EpsImagePlugin
+DEBUG:PIL.Image:Importing FitsImagePlugin
+DEBUG:PIL.Image:Importing FliImagePlugin
+DEBUG:PIL.Image:Importing FpxImagePlugin
+DEBUG:PIL.Image:Image: failed to import FpxImagePlugin: No module named 'olefile'
+DEBUG:PIL.Image:Importing FtexImagePlugin
+DEBUG:PIL.Image:Importing GbrImagePlugin
+DEBUG:PIL.Image:Importing GifImagePlugin
+DEBUG:PIL.Image:Importing GribStubImagePlugin
+DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
+DEBUG:PIL.Image:Importing IcnsImagePlugin
+DEBUG:PIL.Image:Importing IcoImagePlugin
+DEBUG:PIL.Image:Importing ImImagePlugin
+DEBUG:PIL.Image:Importing ImtImagePlugin
+DEBUG:PIL.Image:Importing IptcImagePlugin
+DEBUG:PIL.Image:Importing JpegImagePlugin
+DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
+DEBUG:PIL.Image:Importing McIdasImagePlugin
+DEBUG:PIL.Image:Importing MicImagePlugin
+DEBUG:PIL.Image:Image: failed to import MicImagePlugin: No module named 'olefile'
+DEBUG:PIL.Image:Importing MpegImagePlugin
+DEBUG:PIL.Image:Importing MpoImagePlugin
+DEBUG:PIL.Image:Importing MspImagePlugin
+DEBUG:PIL.Image:Importing PalmImagePlugin
+DEBUG:PIL.Image:Importing PcdImagePlugin
+DEBUG:PIL.Image:Importing PcxImagePlugin
+DEBUG:PIL.Image:Importing PdfImagePlugin
+DEBUG:PIL.Image:Importing PixarImagePlugin
+DEBUG:PIL.Image:Importing PngImagePlugin
+DEBUG:PIL.Image:Importing PpmImagePlugin
+DEBUG:PIL.Image:Importing PsdImagePlugin
+DEBUG:PIL.Image:Importing QoiImagePlugin
+DEBUG:PIL.Image:Importing SgiImagePlugin
+DEBUG:PIL.Image:Importing SpiderImagePlugin
+DEBUG:PIL.Image:Importing SunImagePlugin
+DEBUG:PIL.Image:Importing TgaImagePlugin
+DEBUG:PIL.Image:Importing TiffImagePlugin
+DEBUG:PIL.Image:Importing WebPImagePlugin
+DEBUG:PIL.Image:Importing WmfImagePlugin
+DEBUG:PIL.Image:Importing XbmImagePlugin
+DEBUG:PIL.Image:Importing XpmImagePlugin
+DEBUG:PIL.Image:Importing XVThumbImagePlugin
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 161894 13
+DEBUG:PIL.PngImagePlugin:STREAM b'orNT' 161919 1
+DEBUG:PIL.PngImagePlugin:b'orNT' 161919 1 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 161932 6762
+INFO:root:Created label: logo
+INFO:root:Created label: title
+INFO:root:Created button: settings
+INFO:root:Created button: settings
+INFO:root:Created label: info
+INFO:root:Created label: link
+INFO:10/31/2024 02:53:58 AM: Checking if hack folder exists
+INFO:10/31/2024 02:53:58 AM: Checking if scholastic folder exists
+INFO:10/31/2024 02:53:58 AM: Checking if data exists
+INFO:10/31/2024 02:53:58 AM: fetched data.json
+INFO:10/31/2024 02:53:58 AM: Opening Main Page
+INFO:10/31/2024 02:53:58 AM: Set color to: #2b2b28
+DEBUG:10/31/2024 02:53:58 AM: Importing BlpImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing BmpImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing BufrStubImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing CurImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing DcxImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing DdsImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing EpsImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing FitsImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing FliImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing FpxImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Image: failed to import FpxImagePlugin: No module named 'olefile'
+DEBUG:10/31/2024 02:53:58 AM: Importing FtexImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing GbrImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing GifImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing GribStubImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing Hdf5StubImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing IcnsImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing IcoImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing ImImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing ImtImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing IptcImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing JpegImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing Jpeg2KImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing McIdasImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing MicImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Image: failed to import MicImagePlugin: No module named 'olefile'
+DEBUG:10/31/2024 02:53:58 AM: Importing MpegImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing MpoImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing MspImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing PalmImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing PcdImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing PcxImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing PdfImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing PixarImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing PngImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing PpmImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing PsdImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing QoiImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing SgiImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing SpiderImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing SunImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing TgaImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing TiffImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing WebPImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing WmfImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing XbmImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing XpmImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: Importing XVThumbImagePlugin
+DEBUG:10/31/2024 02:53:58 AM: STREAM b'IHDR' 161894 13
+DEBUG:10/31/2024 02:53:58 AM: STREAM b'orNT' 161919 1
+DEBUG:10/31/2024 02:53:58 AM: b'orNT' 161919 1 (unknown)
+DEBUG:10/31/2024 02:53:58 AM: STREAM b'IDAT' 161932 6762
+INFO:10/31/2024 02:53:58 AM: Created label: logo
+INFO:10/31/2024 02:53:58 AM: Created label: title
+INFO:10/31/2024 02:53:58 AM: Created button: settings
+INFO:10/31/2024 02:53:58 AM: Created button: settings
+INFO:10/31/2024 02:53:58 AM: Created label: info
+INFO:10/31/2024 02:53:58 AM: Created label: link
+[INFO]: [10/31/2024 02:54:43 AM]: [Checking if hack folder exists]
+[INFO]: [10/31/2024 02:54:43 AM]: [Checking if scholastic folder exists]
+[INFO]: [10/31/2024 02:54:43 AM]: [Checking if data exists]
+[INFO]: [10/31/2024 02:54:43 AM]: [fetched data.json]
+[INFO]: [10/31/2024 02:54:43 AM]: [Opening Main Page]
+[INFO]: [10/31/2024 02:54:43 AM]: [Set color to: #2b2b28]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing BlpImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing BmpImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing BufrStubImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing CurImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing DcxImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing DdsImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing EpsImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing FitsImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing FliImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing FpxImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Image: failed to import FpxImagePlugin: No module named 'olefile']
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing FtexImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing GbrImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing GifImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing GribStubImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing Hdf5StubImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing IcnsImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing IcoImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing ImImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing ImtImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing IptcImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing JpegImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing Jpeg2KImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing McIdasImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing MicImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Image: failed to import MicImagePlugin: No module named 'olefile']
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing MpegImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing MpoImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing MspImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing PalmImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing PcdImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing PcxImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing PdfImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing PixarImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing PngImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing PpmImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing PsdImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing QoiImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing SgiImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing SpiderImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing SunImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing TgaImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing TiffImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing WebPImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing WmfImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing XbmImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing XpmImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [Importing XVThumbImagePlugin]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [STREAM b'IHDR' 161894 13]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [STREAM b'orNT' 161919 1]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [b'orNT' 161919 1 (unknown)]
+[DEBUG]: [10/31/2024 02:54:43 AM]: [STREAM b'IDAT' 161932 6762]
+[INFO]: [10/31/2024 02:54:43 AM]: [Created label: logo]
+[INFO]: [10/31/2024 02:54:43 AM]: [Created label: title]
+[INFO]: [10/31/2024 02:54:43 AM]: [Created button: settings]
+[INFO]: [10/31/2024 02:54:43 AM]: [Created button: settings]
+[INFO]: [10/31/2024 02:54:43 AM]: [Created label: info]
+[INFO]: [10/31/2024 02:54:43 AM]: [Created label: link]
+[INFO]: [10/31/2024 03:06:45 AM]: Checking if hack folder exists
+[INFO]: [10/31/2024 03:06:45 AM]: Checking if scholastic folder exists
+[INFO]: [10/31/2024 03:06:45 AM]: Checking if data exists
+[INFO]: [10/31/2024 03:06:45 AM]: fetched data.json
+[INFO]: [10/31/2024 03:06:57 AM]: Checking if hack folder exists
+[INFO]: [10/31/2024 03:06:57 AM]: Checking if scholastic folder exists
+[INFO]: [10/31/2024 03:06:57 AM]: Checking if data exists
+[INFO]: [10/31/2024 03:06:57 AM]: fetched data.json
+[INFO]: [10/31/2024 03:06:57 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:06:57 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing BlpImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing BmpImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing BufrStubImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing CurImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing DcxImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing DdsImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing EpsImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing FitsImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing FliImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing FpxImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing FtexImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing GbrImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing GifImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing GribStubImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing IcnsImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing IcoImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing ImImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing ImtImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing IptcImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing JpegImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing McIdasImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing MicImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing MpegImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing MpoImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing MspImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing PalmImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing PcdImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing PcxImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing PdfImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing PixarImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing PngImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing PpmImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing PsdImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing QoiImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing SgiImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing SpiderImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing SunImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing TgaImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing TiffImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing WebPImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing WmfImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing XbmImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing XpmImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: Importing XVThumbImagePlugin
+[DEBUG]: [10/31/2024 03:06:57 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:06:57 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:06:57 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:06:57 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:06:57 AM]: Created label: logo
+[INFO]: [10/31/2024 03:06:57 AM]: Created label: title
+[INFO]: [10/31/2024 03:06:57 AM]: Created button: settings
+[INFO]: [10/31/2024 03:06:57 AM]: Created button: settings
+[INFO]: [10/31/2024 03:06:57 AM]: Created button: exit
+[INFO]: [10/31/2024 03:06:57 AM]: Created label: info
+[INFO]: [10/31/2024 03:06:57 AM]: Created label: link
+[INFO]: [10/31/2024 03:07:00 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:07:00 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:07:00 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:07:00 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:07:00 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:07:00 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:07:00 AM]: Created label: logo
+[INFO]: [10/31/2024 03:07:00 AM]: Created label: title
+[INFO]: [10/31/2024 03:07:00 AM]: Created button: settings
+[INFO]: [10/31/2024 03:07:00 AM]: Created button: settings
+[INFO]: [10/31/2024 03:07:00 AM]: Created button: exit
+[INFO]: [10/31/2024 03:07:00 AM]: Created label: info
+[INFO]: [10/31/2024 03:07:00 AM]: Created label: link
+[INFO]: [10/31/2024 03:07:02 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:07:02 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:07:02 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:07:02 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:07:02 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:07:02 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:07:02 AM]: Created label: logo
+[INFO]: [10/31/2024 03:07:02 AM]: Created label: title
+[INFO]: [10/31/2024 03:07:02 AM]: Created button: settings
+[INFO]: [10/31/2024 03:07:02 AM]: Created button: settings
+[INFO]: [10/31/2024 03:07:02 AM]: Created button: exit
+[INFO]: [10/31/2024 03:07:02 AM]: Created label: info
+[INFO]: [10/31/2024 03:07:02 AM]: Created label: link
+[INFO]: [10/31/2024 03:07:04 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:07:04 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:07:04 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:07:04 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:07:04 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:07:04 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:07:04 AM]: Created label: logo
+[INFO]: [10/31/2024 03:07:04 AM]: Created label: title
+[INFO]: [10/31/2024 03:07:04 AM]: Created button: settings
+[INFO]: [10/31/2024 03:07:04 AM]: Created button: settings
+[INFO]: [10/31/2024 03:07:04 AM]: Created button: exit
+[INFO]: [10/31/2024 03:07:04 AM]: Created label: info
+[INFO]: [10/31/2024 03:07:04 AM]: Created label: link
+[INFO]: [10/31/2024 03:07:37 AM]: Checking if hack folder exists
+[INFO]: [10/31/2024 03:07:37 AM]: Checking if scholastic folder exists
+[INFO]: [10/31/2024 03:07:37 AM]: Checking if data exists
+[INFO]: [10/31/2024 03:07:37 AM]: fetched data.json
+[INFO]: [10/31/2024 03:07:37 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:07:37 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing BlpImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing BmpImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing BufrStubImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing CurImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing DcxImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing DdsImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing EpsImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing FitsImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing FliImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing FpxImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing FtexImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing GbrImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing GifImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing GribStubImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing IcnsImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing IcoImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing ImImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing ImtImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing IptcImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing JpegImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing McIdasImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing MicImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing MpegImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing MpoImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing MspImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing PalmImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing PcdImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing PcxImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing PdfImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing PixarImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing PngImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing PpmImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing PsdImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing QoiImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing SgiImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing SpiderImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing SunImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing TgaImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing TiffImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing WebPImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing WmfImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing XbmImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing XpmImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: Importing XVThumbImagePlugin
+[DEBUG]: [10/31/2024 03:07:37 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:07:37 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:07:37 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:07:37 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:07:37 AM]: Created label: logo
+[INFO]: [10/31/2024 03:07:37 AM]: Created label: title
+[INFO]: [10/31/2024 03:07:37 AM]: Created button: settings
+[INFO]: [10/31/2024 03:07:37 AM]: Created button: settings
+[INFO]: [10/31/2024 03:07:37 AM]: Created button: exit
+[INFO]: [10/31/2024 03:07:37 AM]: Created label: info
+[INFO]: [10/31/2024 03:07:37 AM]: Created label: link
+[INFO]: [10/31/2024 03:07:41 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:07:41 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:07:41 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:07:41 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:07:41 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:07:41 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:07:41 AM]: Created label: logo
+[INFO]: [10/31/2024 03:07:41 AM]: Created label: title
+[INFO]: [10/31/2024 03:07:41 AM]: Created button: settings
+[INFO]: [10/31/2024 03:07:41 AM]: Created button: settings
+[INFO]: [10/31/2024 03:07:41 AM]: Created button: exit
+[INFO]: [10/31/2024 03:07:41 AM]: Created label: info
+[INFO]: [10/31/2024 03:07:41 AM]: Created label: link
+[INFO]: [10/31/2024 03:07:46 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:07:47 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:07:47 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:07:47 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:07:47 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:07:47 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:07:47 AM]: Created label: logo
+[INFO]: [10/31/2024 03:07:47 AM]: Created label: title
+[INFO]: [10/31/2024 03:07:47 AM]: Created button: settings
+[INFO]: [10/31/2024 03:07:47 AM]: Created button: settings
+[INFO]: [10/31/2024 03:07:47 AM]: Created button: exit
+[INFO]: [10/31/2024 03:07:47 AM]: Created label: info
+[INFO]: [10/31/2024 03:07:47 AM]: Created label: link
+[INFO]: [10/31/2024 03:08:14 AM]: Checking if hack folder exists
+[INFO]: [10/31/2024 03:08:14 AM]: Checking if scholastic folder exists
+[INFO]: [10/31/2024 03:08:14 AM]: Checking if data exists
+[INFO]: [10/31/2024 03:08:14 AM]: fetched data.json
+[INFO]: [10/31/2024 03:08:14 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:08:14 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing BlpImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing BmpImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing BufrStubImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing CurImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing DcxImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing DdsImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing EpsImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing FitsImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing FliImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing FpxImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing FtexImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing GbrImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing GifImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing GribStubImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing IcnsImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing IcoImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing ImImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing ImtImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing IptcImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing JpegImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing McIdasImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing MicImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing MpegImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing MpoImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing MspImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing PalmImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing PcdImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing PcxImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing PdfImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing PixarImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing PngImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing PpmImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing PsdImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing QoiImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing SgiImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing SpiderImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing SunImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing TgaImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing TiffImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing WebPImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing WmfImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing XbmImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing XpmImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: Importing XVThumbImagePlugin
+[DEBUG]: [10/31/2024 03:08:14 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:08:14 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:08:14 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:08:14 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:08:14 AM]: Created label: logo
+[INFO]: [10/31/2024 03:08:14 AM]: Created label: title
+[INFO]: [10/31/2024 03:08:14 AM]: Created button: settings
+[INFO]: [10/31/2024 03:08:14 AM]: Created button: settings
+[INFO]: [10/31/2024 03:08:14 AM]: Created button: exit
+[INFO]: [10/31/2024 03:08:14 AM]: Created label: info
+[INFO]: [10/31/2024 03:08:14 AM]: Created label: link
+[INFO]: [10/31/2024 03:09:14 AM]: Checking if hack folder exists
+[INFO]: [10/31/2024 03:09:14 AM]: Checking if scholastic folder exists
+[INFO]: [10/31/2024 03:09:14 AM]: Checking if data exists
+[INFO]: [10/31/2024 03:09:14 AM]: fetched data.json
+[INFO]: [10/31/2024 03:09:14 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:09:14 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing BlpImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing BmpImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing BufrStubImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing CurImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing DcxImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing DdsImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing EpsImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing FitsImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing FliImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing FpxImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing FtexImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing GbrImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing GifImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing GribStubImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing IcnsImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing IcoImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing ImImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing ImtImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing IptcImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing JpegImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing McIdasImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing MicImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing MpegImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing MpoImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing MspImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing PalmImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing PcdImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing PcxImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing PdfImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing PixarImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing PngImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing PpmImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing PsdImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing QoiImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing SgiImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing SpiderImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing SunImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing TgaImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing TiffImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing WebPImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing WmfImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing XbmImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing XpmImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: Importing XVThumbImagePlugin
+[DEBUG]: [10/31/2024 03:09:14 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:09:14 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:09:14 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:09:14 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:09:14 AM]: Created label: logo
+[INFO]: [10/31/2024 03:09:14 AM]: Created label: title
+[INFO]: [10/31/2024 03:09:14 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:14 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:14 AM]: Created button: exit
+[INFO]: [10/31/2024 03:09:14 AM]: Created label: info
+[INFO]: [10/31/2024 03:09:14 AM]: Created label: link
+[INFO]: [10/31/2024 03:09:17 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:09:17 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:09:17 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:09:17 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:09:17 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:09:17 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:09:17 AM]: Created label: logo
+[INFO]: [10/31/2024 03:09:17 AM]: Created label: title
+[INFO]: [10/31/2024 03:09:17 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:17 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:17 AM]: Created button: exit
+[INFO]: [10/31/2024 03:09:17 AM]: Created label: info
+[INFO]: [10/31/2024 03:09:17 AM]: Created label: link
+[INFO]: [10/31/2024 03:09:18 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:09:18 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:09:18 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:09:18 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:09:18 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:09:18 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:09:18 AM]: Created label: logo
+[INFO]: [10/31/2024 03:09:18 AM]: Created label: title
+[INFO]: [10/31/2024 03:09:18 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:18 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:18 AM]: Created button: exit
+[INFO]: [10/31/2024 03:09:18 AM]: Created label: info
+[INFO]: [10/31/2024 03:09:18 AM]: Created label: link
+[INFO]: [10/31/2024 03:09:20 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:09:20 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:09:20 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:09:20 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:09:20 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:09:20 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:09:20 AM]: Created label: logo
+[INFO]: [10/31/2024 03:09:20 AM]: Created label: title
+[INFO]: [10/31/2024 03:09:20 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:20 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:20 AM]: Created button: exit
+[INFO]: [10/31/2024 03:09:20 AM]: Created label: info
+[INFO]: [10/31/2024 03:09:20 AM]: Created label: link
+[INFO]: [10/31/2024 03:09:21 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:09:21 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:09:21 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:09:21 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:09:21 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:09:21 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:09:21 AM]: Created label: logo
+[INFO]: [10/31/2024 03:09:21 AM]: Created label: title
+[INFO]: [10/31/2024 03:09:21 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:21 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:21 AM]: Created button: exit
+[INFO]: [10/31/2024 03:09:21 AM]: Created label: info
+[INFO]: [10/31/2024 03:09:21 AM]: Created label: link
+[INFO]: [10/31/2024 03:09:22 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:09:22 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:09:22 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:09:22 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:09:22 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:09:22 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:09:22 AM]: Created label: logo
+[INFO]: [10/31/2024 03:09:22 AM]: Created label: title
+[INFO]: [10/31/2024 03:09:22 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:22 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:22 AM]: Created button: exit
+[INFO]: [10/31/2024 03:09:22 AM]: Created label: info
+[INFO]: [10/31/2024 03:09:22 AM]: Created label: link
+[INFO]: [10/31/2024 03:09:23 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:09:23 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:09:23 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:09:23 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:09:23 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:09:23 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:09:23 AM]: Created label: logo
+[INFO]: [10/31/2024 03:09:23 AM]: Created label: title
+[INFO]: [10/31/2024 03:09:23 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:23 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:23 AM]: Created button: exit
+[INFO]: [10/31/2024 03:09:23 AM]: Created label: info
+[INFO]: [10/31/2024 03:09:23 AM]: Created label: link
+[INFO]: [10/31/2024 03:09:24 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:09:24 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:09:24 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:09:24 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:09:24 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:09:24 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:09:24 AM]: Created label: logo
+[INFO]: [10/31/2024 03:09:24 AM]: Created label: title
+[INFO]: [10/31/2024 03:09:24 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:24 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:24 AM]: Created button: exit
+[INFO]: [10/31/2024 03:09:24 AM]: Created label: info
+[INFO]: [10/31/2024 03:09:24 AM]: Created label: link
+[INFO]: [10/31/2024 03:09:24 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:09:24 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:09:24 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:09:24 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:09:24 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:09:24 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:09:24 AM]: Created label: logo
+[INFO]: [10/31/2024 03:09:24 AM]: Created label: title
+[INFO]: [10/31/2024 03:09:24 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:24 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:24 AM]: Created button: exit
+[INFO]: [10/31/2024 03:09:24 AM]: Created label: info
+[INFO]: [10/31/2024 03:09:24 AM]: Created label: link
+[INFO]: [10/31/2024 03:09:25 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:09:25 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:09:25 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:09:25 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:09:25 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:09:25 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:09:25 AM]: Created label: logo
+[INFO]: [10/31/2024 03:09:25 AM]: Created label: title
+[INFO]: [10/31/2024 03:09:25 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:25 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:25 AM]: Created button: exit
+[INFO]: [10/31/2024 03:09:25 AM]: Created label: info
+[INFO]: [10/31/2024 03:09:25 AM]: Created label: link
+[INFO]: [10/31/2024 03:09:25 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:09:25 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:09:25 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:09:25 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:09:25 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:09:25 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:09:25 AM]: Created label: logo
+[INFO]: [10/31/2024 03:09:25 AM]: Created label: title
+[INFO]: [10/31/2024 03:09:25 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:25 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:25 AM]: Created button: exit
+[INFO]: [10/31/2024 03:09:25 AM]: Created label: info
+[INFO]: [10/31/2024 03:09:25 AM]: Created label: link
+[INFO]: [10/31/2024 03:09:26 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:09:27 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:09:27 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:09:27 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:09:27 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:09:27 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:09:27 AM]: Created label: logo
+[INFO]: [10/31/2024 03:09:27 AM]: Created label: title
+[INFO]: [10/31/2024 03:09:27 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:27 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:27 AM]: Created button: exit
+[INFO]: [10/31/2024 03:09:27 AM]: Created label: info
+[INFO]: [10/31/2024 03:09:27 AM]: Created label: link
+[INFO]: [10/31/2024 03:09:27 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:09:27 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:09:27 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:09:27 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:09:27 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:09:27 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:09:27 AM]: Created label: logo
+[INFO]: [10/31/2024 03:09:27 AM]: Created label: title
+[INFO]: [10/31/2024 03:09:27 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:27 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:27 AM]: Created button: exit
+[INFO]: [10/31/2024 03:09:27 AM]: Created label: info
+[INFO]: [10/31/2024 03:09:27 AM]: Created label: link
+[INFO]: [10/31/2024 03:09:28 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:09:28 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:09:28 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:09:28 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:09:28 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:09:28 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:09:28 AM]: Created label: logo
+[INFO]: [10/31/2024 03:09:28 AM]: Created label: title
+[INFO]: [10/31/2024 03:09:28 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:28 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:28 AM]: Created button: exit
+[INFO]: [10/31/2024 03:09:28 AM]: Created label: info
+[INFO]: [10/31/2024 03:09:28 AM]: Created label: link
+[INFO]: [10/31/2024 03:09:28 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:09:28 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:09:28 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:09:28 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:09:28 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:09:28 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:09:28 AM]: Created label: logo
+[INFO]: [10/31/2024 03:09:28 AM]: Created label: title
+[INFO]: [10/31/2024 03:09:28 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:28 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:28 AM]: Created button: exit
+[INFO]: [10/31/2024 03:09:28 AM]: Created label: info
+[INFO]: [10/31/2024 03:09:28 AM]: Created label: link
+[INFO]: [10/31/2024 03:09:29 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:09:29 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:09:29 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:09:29 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:09:29 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:09:29 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:09:29 AM]: Created label: logo
+[INFO]: [10/31/2024 03:09:29 AM]: Created label: title
+[INFO]: [10/31/2024 03:09:29 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:29 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:29 AM]: Created button: exit
+[INFO]: [10/31/2024 03:09:29 AM]: Created label: info
+[INFO]: [10/31/2024 03:09:29 AM]: Created label: link
+[INFO]: [10/31/2024 03:09:29 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:09:29 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:09:29 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:09:29 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:09:29 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:09:29 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:09:29 AM]: Created label: logo
+[INFO]: [10/31/2024 03:09:29 AM]: Created label: title
+[INFO]: [10/31/2024 03:09:29 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:29 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:29 AM]: Created button: exit
+[INFO]: [10/31/2024 03:09:29 AM]: Created label: info
+[INFO]: [10/31/2024 03:09:29 AM]: Created label: link
+[INFO]: [10/31/2024 03:09:30 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:09:30 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:09:30 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:09:30 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:09:30 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:09:30 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:09:30 AM]: Created label: logo
+[INFO]: [10/31/2024 03:09:30 AM]: Created label: title
+[INFO]: [10/31/2024 03:09:30 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:30 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:30 AM]: Created button: exit
+[INFO]: [10/31/2024 03:09:30 AM]: Created label: info
+[INFO]: [10/31/2024 03:09:30 AM]: Created label: link
+[INFO]: [10/31/2024 03:09:31 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:09:31 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:09:31 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:09:31 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:09:31 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:09:31 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:09:31 AM]: Created label: logo
+[INFO]: [10/31/2024 03:09:31 AM]: Created label: title
+[INFO]: [10/31/2024 03:09:31 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:31 AM]: Created button: settings
+[INFO]: [10/31/2024 03:09:31 AM]: Created button: exit
+[INFO]: [10/31/2024 03:09:31 AM]: Created label: info
+[INFO]: [10/31/2024 03:09:31 AM]: Created label: link
+[INFO]: [10/31/2024 03:10:00 AM]: Checking if hack folder exists
+[INFO]: [10/31/2024 03:10:00 AM]: Checking if scholastic folder exists
+[INFO]: [10/31/2024 03:10:00 AM]: Checking if data exists
+[INFO]: [10/31/2024 03:10:00 AM]: fetched data.json
+[INFO]: [10/31/2024 03:10:00 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:10:00 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing BlpImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing BmpImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing BufrStubImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing CurImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing DcxImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing DdsImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing EpsImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing FitsImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing FliImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing FpxImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing FtexImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing GbrImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing GifImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing GribStubImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing IcnsImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing IcoImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing ImImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing ImtImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing IptcImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing JpegImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing McIdasImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing MicImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing MpegImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing MpoImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing MspImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing PalmImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing PcdImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing PcxImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing PdfImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing PixarImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing PngImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing PpmImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing PsdImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing QoiImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing SgiImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing SpiderImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing SunImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing TgaImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing TiffImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing WebPImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing WmfImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing XbmImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing XpmImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: Importing XVThumbImagePlugin
+[DEBUG]: [10/31/2024 03:10:00 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:10:00 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:10:00 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:10:00 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:10:00 AM]: Created label: logo
+[INFO]: [10/31/2024 03:10:00 AM]: Created label: title
+[INFO]: [10/31/2024 03:10:00 AM]: Created button: settings
+[INFO]: [10/31/2024 03:10:00 AM]: Created button: settings
+[INFO]: [10/31/2024 03:10:00 AM]: Created button: exit
+[INFO]: [10/31/2024 03:10:00 AM]: Created label: info
+[INFO]: [10/31/2024 03:10:00 AM]: Created label: link
+[INFO]: [10/31/2024 03:10:02 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:10:02 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:10:02 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:10:02 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:10:02 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:10:02 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:10:02 AM]: Created label: logo
+[INFO]: [10/31/2024 03:10:02 AM]: Created label: title
+[INFO]: [10/31/2024 03:10:02 AM]: Created button: settings
+[INFO]: [10/31/2024 03:10:02 AM]: Created button: settings
+[INFO]: [10/31/2024 03:10:02 AM]: Created button: exit
+[INFO]: [10/31/2024 03:10:02 AM]: Created label: info
+[INFO]: [10/31/2024 03:10:02 AM]: Created label: link
+[INFO]: [10/31/2024 03:10:02 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:10:03 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:10:03 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:10:03 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:10:03 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:10:03 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:10:03 AM]: Created label: logo
+[INFO]: [10/31/2024 03:10:03 AM]: Created label: title
+[INFO]: [10/31/2024 03:10:03 AM]: Created button: settings
+[INFO]: [10/31/2024 03:10:03 AM]: Created button: settings
+[INFO]: [10/31/2024 03:10:03 AM]: Created button: exit
+[INFO]: [10/31/2024 03:10:03 AM]: Created label: info
+[INFO]: [10/31/2024 03:10:03 AM]: Created label: link
+[INFO]: [10/31/2024 03:10:15 AM]: Checking if hack folder exists
+[INFO]: [10/31/2024 03:10:15 AM]: Checking if scholastic folder exists
+[INFO]: [10/31/2024 03:10:15 AM]: Checking if data exists
+[INFO]: [10/31/2024 03:10:15 AM]: fetched data.json
+[INFO]: [10/31/2024 03:10:15 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:10:15 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing BlpImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing BmpImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing BufrStubImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing CurImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing DcxImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing DdsImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing EpsImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing FitsImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing FliImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing FpxImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing FtexImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing GbrImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing GifImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing GribStubImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing IcnsImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing IcoImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing ImImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing ImtImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing IptcImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing JpegImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing McIdasImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing MicImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing MpegImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing MpoImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing MspImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing PalmImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing PcdImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing PcxImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing PdfImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing PixarImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing PngImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing PpmImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing PsdImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing QoiImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing SgiImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing SpiderImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing SunImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing TgaImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing TiffImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing WebPImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing WmfImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing XbmImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing XpmImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: Importing XVThumbImagePlugin
+[DEBUG]: [10/31/2024 03:10:15 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:10:15 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:10:15 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:10:15 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:10:15 AM]: Created label: logo
+[INFO]: [10/31/2024 03:10:15 AM]: Created label: title
+[INFO]: [10/31/2024 03:10:15 AM]: Created button: settings
+[INFO]: [10/31/2024 03:10:15 AM]: Created button: settings
+[INFO]: [10/31/2024 03:10:15 AM]: Created button: exit
+[INFO]: [10/31/2024 03:10:15 AM]: Created label: info
+[INFO]: [10/31/2024 03:10:15 AM]: Created label: link
+[INFO]: [10/31/2024 03:10:17 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:10:17 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:10:17 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:10:17 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:10:17 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:10:17 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:10:17 AM]: Created label: logo
+[INFO]: [10/31/2024 03:10:17 AM]: Created label: title
+[INFO]: [10/31/2024 03:10:17 AM]: Created button: settings
+[INFO]: [10/31/2024 03:10:17 AM]: Created button: settings
+[INFO]: [10/31/2024 03:10:17 AM]: Created button: exit
+[INFO]: [10/31/2024 03:10:17 AM]: Created label: info
+[INFO]: [10/31/2024 03:10:17 AM]: Created label: link
+[INFO]: [10/31/2024 03:10:18 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:10:18 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:10:18 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:10:18 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:10:18 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:10:18 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:10:18 AM]: Created label: logo
+[INFO]: [10/31/2024 03:10:18 AM]: Created label: title
+[INFO]: [10/31/2024 03:10:18 AM]: Created button: settings
+[INFO]: [10/31/2024 03:10:18 AM]: Created button: settings
+[INFO]: [10/31/2024 03:10:18 AM]: Created button: exit
+[INFO]: [10/31/2024 03:10:18 AM]: Created label: info
+[INFO]: [10/31/2024 03:10:18 AM]: Created label: link
+[INFO]: [10/31/2024 03:10:30 AM]: Checking if hack folder exists
+[INFO]: [10/31/2024 03:10:30 AM]: Checking if scholastic folder exists
+[INFO]: [10/31/2024 03:10:30 AM]: Checking if data exists
+[INFO]: [10/31/2024 03:10:30 AM]: fetched data.json
+[INFO]: [10/31/2024 03:10:30 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:10:30 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing BlpImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing BmpImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing BufrStubImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing CurImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing DcxImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing DdsImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing EpsImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing FitsImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing FliImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing FpxImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing FtexImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing GbrImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing GifImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing GribStubImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing IcnsImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing IcoImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing ImImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing ImtImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing IptcImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing JpegImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing McIdasImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing MicImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing MpegImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing MpoImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing MspImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing PalmImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing PcdImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing PcxImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing PdfImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing PixarImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing PngImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing PpmImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing PsdImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing QoiImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing SgiImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing SpiderImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing SunImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing TgaImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing TiffImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing WebPImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing WmfImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing XbmImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing XpmImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: Importing XVThumbImagePlugin
+[DEBUG]: [10/31/2024 03:10:30 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:10:30 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:10:30 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:10:30 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:10:30 AM]: Created label: logo
+[INFO]: [10/31/2024 03:10:30 AM]: Created label: title
+[INFO]: [10/31/2024 03:10:30 AM]: Created button: settings
+[INFO]: [10/31/2024 03:10:30 AM]: Created button: settings
+[INFO]: [10/31/2024 03:10:30 AM]: Created button: exit
+[INFO]: [10/31/2024 03:10:30 AM]: Created label: info
+[INFO]: [10/31/2024 03:10:30 AM]: Created label: link
+[INFO]: [10/31/2024 03:10:32 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:10:32 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:10:32 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:10:32 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:10:32 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:10:32 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:10:32 AM]: Created label: logo
+[INFO]: [10/31/2024 03:10:32 AM]: Created label: title
+[INFO]: [10/31/2024 03:10:32 AM]: Created button: settings
+[INFO]: [10/31/2024 03:10:32 AM]: Created button: settings
+[INFO]: [10/31/2024 03:10:32 AM]: Created button: exit
+[INFO]: [10/31/2024 03:10:32 AM]: Created label: info
+[INFO]: [10/31/2024 03:10:32 AM]: Created label: link
+[INFO]: [10/31/2024 03:10:33 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:10:33 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:10:33 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:10:33 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:10:33 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:10:33 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:10:33 AM]: Created label: logo
+[INFO]: [10/31/2024 03:10:33 AM]: Created label: title
+[INFO]: [10/31/2024 03:10:33 AM]: Created button: settings
+[INFO]: [10/31/2024 03:10:33 AM]: Created button: settings
+[INFO]: [10/31/2024 03:10:33 AM]: Created button: exit
+[INFO]: [10/31/2024 03:10:33 AM]: Created label: info
+[INFO]: [10/31/2024 03:10:33 AM]: Created label: link
+[INFO]: [10/31/2024 03:11:03 AM]: Checking if hack folder exists
+[INFO]: [10/31/2024 03:11:03 AM]: Checking if scholastic folder exists
+[INFO]: [10/31/2024 03:11:03 AM]: Checking if data exists
+[INFO]: [10/31/2024 03:11:03 AM]: fetched data.json
+[INFO]: [10/31/2024 03:11:03 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:11:03 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing BlpImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing BmpImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing BufrStubImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing CurImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing DcxImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing DdsImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing EpsImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing FitsImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing FliImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing FpxImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing FtexImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing GbrImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing GifImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing GribStubImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing IcnsImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing IcoImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing ImImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing ImtImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing IptcImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing JpegImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing McIdasImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing MicImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing MpegImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing MpoImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing MspImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing PalmImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing PcdImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing PcxImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing PdfImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing PixarImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing PngImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing PpmImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing PsdImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing QoiImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing SgiImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing SpiderImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing SunImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing TgaImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing TiffImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing WebPImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing WmfImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing XbmImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing XpmImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: Importing XVThumbImagePlugin
+[DEBUG]: [10/31/2024 03:11:03 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:11:03 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:11:03 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:11:03 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:11:03 AM]: Created label: logo
+[INFO]: [10/31/2024 03:11:03 AM]: Created label: title
+[INFO]: [10/31/2024 03:11:03 AM]: Created button: settings
+[INFO]: [10/31/2024 03:11:03 AM]: Created button: settings
+[INFO]: [10/31/2024 03:11:03 AM]: Created button: exit
+[INFO]: [10/31/2024 03:11:03 AM]: Created label: info
+[INFO]: [10/31/2024 03:11:03 AM]: Created label: link
+[INFO]: [10/31/2024 03:11:05 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:11:05 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:11:05 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:11:05 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:11:05 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:11:05 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:11:05 AM]: Created label: logo
+[INFO]: [10/31/2024 03:11:05 AM]: Created label: title
+[INFO]: [10/31/2024 03:11:05 AM]: Created button: settings
+[INFO]: [10/31/2024 03:11:05 AM]: Created button: settings
+[INFO]: [10/31/2024 03:11:05 AM]: Created button: exit
+[INFO]: [10/31/2024 03:11:05 AM]: Created label: info
+[INFO]: [10/31/2024 03:11:05 AM]: Created label: link
+[INFO]: [10/31/2024 03:11:06 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:11:06 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:11:06 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:11:06 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:11:06 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:11:06 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:11:06 AM]: Created label: logo
+[INFO]: [10/31/2024 03:11:06 AM]: Created label: title
+[INFO]: [10/31/2024 03:11:06 AM]: Created button: settings
+[INFO]: [10/31/2024 03:11:06 AM]: Created button: settings
+[INFO]: [10/31/2024 03:11:06 AM]: Created button: exit
+[INFO]: [10/31/2024 03:11:06 AM]: Created label: info
+[INFO]: [10/31/2024 03:11:06 AM]: Created label: link
+[INFO]: [10/31/2024 03:11:07 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:11:07 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:11:07 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:11:07 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:11:07 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:11:07 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:11:07 AM]: Created label: logo
+[INFO]: [10/31/2024 03:11:07 AM]: Created label: title
+[INFO]: [10/31/2024 03:11:07 AM]: Created button: settings
+[INFO]: [10/31/2024 03:11:07 AM]: Created button: settings
+[INFO]: [10/31/2024 03:11:07 AM]: Created button: exit
+[INFO]: [10/31/2024 03:11:07 AM]: Created label: info
+[INFO]: [10/31/2024 03:11:07 AM]: Created label: link
+[INFO]: [10/31/2024 03:11:08 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:11:08 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:11:08 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:11:08 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:11:08 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:11:08 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:11:08 AM]: Created label: logo
+[INFO]: [10/31/2024 03:11:08 AM]: Created label: title
+[INFO]: [10/31/2024 03:11:08 AM]: Created button: settings
+[INFO]: [10/31/2024 03:11:08 AM]: Created button: settings
+[INFO]: [10/31/2024 03:11:08 AM]: Created button: exit
+[INFO]: [10/31/2024 03:11:08 AM]: Created label: info
+[INFO]: [10/31/2024 03:11:08 AM]: Created label: link
+[INFO]: [10/31/2024 03:11:59 AM]: Checking if hack folder exists
+[INFO]: [10/31/2024 03:11:59 AM]: Checking if scholastic folder exists
+[INFO]: [10/31/2024 03:11:59 AM]: Checking if data exists
+[INFO]: [10/31/2024 03:11:59 AM]: fetched data.json
+[INFO]: [10/31/2024 03:11:59 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:11:59 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing BlpImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing BmpImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing BufrStubImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing CurImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing DcxImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing DdsImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing EpsImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing FitsImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing FliImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing FpxImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing FtexImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing GbrImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing GifImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing GribStubImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing IcnsImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing IcoImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing ImImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing ImtImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing IptcImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing JpegImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing McIdasImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing MicImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing MpegImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing MpoImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing MspImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing PalmImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing PcdImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing PcxImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing PdfImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing PixarImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing PngImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing PpmImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing PsdImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing QoiImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing SgiImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing SpiderImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing SunImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing TgaImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing TiffImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing WebPImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing WmfImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing XbmImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing XpmImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: Importing XVThumbImagePlugin
+[DEBUG]: [10/31/2024 03:11:59 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:11:59 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:11:59 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:11:59 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:11:59 AM]: Created label: logo
+[INFO]: [10/31/2024 03:11:59 AM]: Created label: title
+[INFO]: [10/31/2024 03:11:59 AM]: Created button: settings
+[INFO]: [10/31/2024 03:11:59 AM]: Created button: settings
+[INFO]: [10/31/2024 03:11:59 AM]: Created button: exit
+[INFO]: [10/31/2024 03:11:59 AM]: Created label: info
+[INFO]: [10/31/2024 03:11:59 AM]: Created label: link
+[INFO]: [10/31/2024 03:12:01 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:12:01 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:12:01 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:12:01 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:12:01 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:12:01 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:12:01 AM]: Created label: logo
+[INFO]: [10/31/2024 03:12:01 AM]: Created label: title
+[INFO]: [10/31/2024 03:12:01 AM]: Created button: settings
+[INFO]: [10/31/2024 03:12:01 AM]: Created button: settings
+[INFO]: [10/31/2024 03:12:01 AM]: Created button: exit
+[INFO]: [10/31/2024 03:12:01 AM]: Created label: info
+[INFO]: [10/31/2024 03:12:01 AM]: Created label: link
+[INFO]: [10/31/2024 03:12:05 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:12:05 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:12:05 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:12:05 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:12:05 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:12:05 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:12:05 AM]: Created label: logo
+[INFO]: [10/31/2024 03:12:05 AM]: Created label: title
+[INFO]: [10/31/2024 03:12:05 AM]: Created button: settings
+[INFO]: [10/31/2024 03:12:05 AM]: Created button: settings
+[INFO]: [10/31/2024 03:12:05 AM]: Created button: exit
+[INFO]: [10/31/2024 03:12:05 AM]: Created label: info
+[INFO]: [10/31/2024 03:12:05 AM]: Created label: link
+[INFO]: [10/31/2024 03:12:28 AM]: Checking if hack folder exists
+[INFO]: [10/31/2024 03:12:28 AM]: Checking if scholastic folder exists
+[INFO]: [10/31/2024 03:12:28 AM]: Checking if data exists
+[INFO]: [10/31/2024 03:12:28 AM]: fetched data.json
+[INFO]: [10/31/2024 03:12:28 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:12:28 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing BlpImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing BmpImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing BufrStubImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing CurImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing DcxImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing DdsImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing EpsImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing FitsImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing FliImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing FpxImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing FtexImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing GbrImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing GifImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing GribStubImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing IcnsImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing IcoImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing ImImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing ImtImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing IptcImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing JpegImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing McIdasImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing MicImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing MpegImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing MpoImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing MspImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing PalmImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing PcdImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing PcxImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing PdfImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing PixarImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing PngImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing PpmImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing PsdImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing QoiImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing SgiImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing SpiderImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing SunImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing TgaImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing TiffImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing WebPImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing WmfImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing XbmImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing XpmImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: Importing XVThumbImagePlugin
+[DEBUG]: [10/31/2024 03:12:28 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:12:28 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:12:28 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:12:28 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:12:28 AM]: Created label: logo
+[INFO]: [10/31/2024 03:12:28 AM]: Created label: title
+[INFO]: [10/31/2024 03:12:28 AM]: Created button: settings
+[INFO]: [10/31/2024 03:12:28 AM]: Created button: settings
+[INFO]: [10/31/2024 03:12:28 AM]: Created button: exit
+[INFO]: [10/31/2024 03:12:28 AM]: Created label: info
+[INFO]: [10/31/2024 03:12:28 AM]: Created label: link
+[INFO]: [10/31/2024 03:12:30 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:12:30 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:12:30 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:12:30 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:12:30 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:12:30 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:12:30 AM]: Created label: logo
+[INFO]: [10/31/2024 03:12:30 AM]: Created label: title
+[INFO]: [10/31/2024 03:12:30 AM]: Created button: settings
+[INFO]: [10/31/2024 03:12:30 AM]: Created button: settings
+[INFO]: [10/31/2024 03:12:30 AM]: Created button: exit
+[INFO]: [10/31/2024 03:12:30 AM]: Created label: info
+[INFO]: [10/31/2024 03:12:30 AM]: Created label: link
+[INFO]: [10/31/2024 03:12:56 AM]: Checking if hack folder exists
+[INFO]: [10/31/2024 03:12:56 AM]: Checking if scholastic folder exists
+[INFO]: [10/31/2024 03:12:56 AM]: Checking if data exists
+[INFO]: [10/31/2024 03:12:56 AM]: fetched data.json
+[INFO]: [10/31/2024 03:12:56 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:12:56 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing BlpImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing BmpImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing BufrStubImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing CurImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing DcxImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing DdsImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing EpsImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing FitsImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing FliImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing FpxImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing FtexImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing GbrImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing GifImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing GribStubImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing IcnsImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing IcoImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing ImImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing ImtImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing IptcImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing JpegImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing McIdasImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing MicImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing MpegImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing MpoImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing MspImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing PalmImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing PcdImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing PcxImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing PdfImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing PixarImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing PngImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing PpmImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing PsdImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing QoiImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing SgiImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing SpiderImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing SunImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing TgaImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing TiffImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing WebPImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing WmfImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing XbmImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing XpmImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: Importing XVThumbImagePlugin
+[DEBUG]: [10/31/2024 03:12:56 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:12:56 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:12:56 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:12:56 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:12:56 AM]: Created label: logo
+[INFO]: [10/31/2024 03:12:56 AM]: Created label: title
+[INFO]: [10/31/2024 03:12:56 AM]: Created button: settings
+[INFO]: [10/31/2024 03:12:56 AM]: Created button: settings
+[INFO]: [10/31/2024 03:12:56 AM]: Created button: exit
+[INFO]: [10/31/2024 03:12:56 AM]: Created label: info
+[INFO]: [10/31/2024 03:12:56 AM]: Created label: link
+[INFO]: [10/31/2024 03:20:35 AM]: Checking if hack folder exists
+[INFO]: [10/31/2024 03:20:35 AM]: Checking if scholastic folder exists
+[INFO]: [10/31/2024 03:20:35 AM]: Checking if data exists
+[INFO]: [10/31/2024 03:20:35 AM]: fetched data.json
+[INFO]: [10/31/2024 03:20:35 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:20:35 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing BlpImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing BmpImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing BufrStubImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing CurImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing DcxImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing DdsImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing EpsImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing FitsImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing FliImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing FpxImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing FtexImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing GbrImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing GifImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing GribStubImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing IcnsImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing IcoImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing ImImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing ImtImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing IptcImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing JpegImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing McIdasImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing MicImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing MpegImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing MpoImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing MspImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing PalmImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing PcdImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing PcxImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing PdfImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing PixarImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing PngImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing PpmImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing PsdImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing QoiImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing SgiImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing SpiderImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing SunImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing TgaImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing TiffImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing WebPImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing WmfImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing XbmImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing XpmImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: Importing XVThumbImagePlugin
+[DEBUG]: [10/31/2024 03:20:35 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:20:35 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:20:35 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:20:35 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:20:35 AM]: Created label: logo
+[INFO]: [10/31/2024 03:20:35 AM]: Created label: title
+[INFO]: [10/31/2024 03:20:35 AM]: Created button: settings
+[INFO]: [10/31/2024 03:20:35 AM]: Created button: settings
+[INFO]: [10/31/2024 03:20:35 AM]: Created button: exit
+[INFO]: [10/31/2024 03:20:35 AM]: Created label: info
+[INFO]: [10/31/2024 03:20:35 AM]: Created label: link
+[INFO]: [10/31/2024 03:20:49 AM]: Checking if hack folder exists
+[INFO]: [10/31/2024 03:20:49 AM]: Checking if scholastic folder exists
+[INFO]: [10/31/2024 03:20:49 AM]: Checking if data exists
+[INFO]: [10/31/2024 03:20:49 AM]: fetched data.json
+[INFO]: [10/31/2024 03:20:49 AM]: Opening Main Page
+[INFO]: [10/31/2024 03:20:49 AM]: Set color to: #2b2b28
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing BlpImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing BmpImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing BufrStubImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing CurImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing DcxImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing DdsImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing EpsImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing FitsImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing FliImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing FpxImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing FtexImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing GbrImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing GifImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing GribStubImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing IcnsImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing IcoImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing ImImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing ImtImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing IptcImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing JpegImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing McIdasImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing MicImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing MpegImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing MpoImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing MspImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing PalmImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing PcdImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing PcxImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing PdfImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing PixarImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing PngImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing PpmImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing PsdImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing QoiImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing SgiImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing SpiderImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing SunImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing TgaImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing TiffImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing WebPImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing WmfImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing XbmImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing XpmImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: Importing XVThumbImagePlugin
+[DEBUG]: [10/31/2024 03:20:49 AM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [10/31/2024 03:20:49 AM]: STREAM b'orNT' 161919 1
+[DEBUG]: [10/31/2024 03:20:49 AM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [10/31/2024 03:20:49 AM]: STREAM b'IDAT' 161932 6762
+[INFO]: [10/31/2024 03:20:49 AM]: Created label: logo
+[INFO]: [10/31/2024 03:20:49 AM]: Created label: title
+[INFO]: [10/31/2024 03:20:49 AM]: Created button: settings
+[INFO]: [10/31/2024 03:20:49 AM]: Created button: settings
+[INFO]: [10/31/2024 03:20:49 AM]: Created button: exit
+[INFO]: [10/31/2024 03:20:49 AM]: Created label: info
+[INFO]: [10/31/2024 03:20:49 AM]: Created label: link

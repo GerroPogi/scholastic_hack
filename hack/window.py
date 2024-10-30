@@ -1,12 +1,14 @@
+import logging
 import tkinter
 from typing import Optional
+
 class Window(tkinter.Tk):
     widgets={}
     def __init__(self,size):
         super().__init__()
-        
         self.geometry(size)
     def add_entry(self,name:str,size:int = 10,default_entry="",font=('Arial 24'),pos=[]):
+        logging.info("Created entry: %s", name)
         
         entry=tkinter.Entry(self,width=size,font=font,textvariable=default_entry)
         if pos:
@@ -16,6 +18,8 @@ class Window(tkinter.Tk):
         self.widgets[name]=entry
     
     def add_scale(self,name,from_,to,default,orient=tkinter.HORIZONTAL,pos=[]):
+        logging.info("Created scale: %s", name)
+        
         scale=tkinter.Scale(self,orient=orient,from_=from_,to=to,variable=tkinter.DoubleVar(value=default))
         if pos:
             scale.place(x=pos[0],y=pos[1])
@@ -26,16 +30,20 @@ class Window(tkinter.Tk):
     def get_widget(self,widget:str):
         return self.widgets[widget]
     
-    def add_button(self,name:str,text:str,command,size:int = 10,font=('Arial 24'),pos=[]):
+    def add_button(self,name:str,text:str,command,size:int = 10,font=('Arial 24'),pos=[],**kwargs):
+        logging.info("Created button: %s", name)
         
         button=tkinter.Button(self,text=text,width=size,font=font,command=command)
+        button.configure(**kwargs)
         if pos:
             button.place(x=pos[0],y=pos[1])
         else:
             button.pack()
         self.widgets[name]=button
-    def add_label(self, name:str, text:str,font=('Arial 24'),pos=[]):
+    def add_label(self, name:str, text:str,font=('Arial 24'),pos=[],**kwargs):
+        logging.info("Created label: %s", name)
         label=tkinter.Label(text=text,font=font)
+        label.configure(**kwargs)
         if pos:
             label.place(x=pos[0],y=pos[1])
         else:
@@ -49,6 +57,8 @@ class Window(tkinter.Tk):
         self.attributes('-alpha',alpha)
     
     def add_dropdown(self, name,default,options,pos=[]):
+        logging.info("Created dropdown: %s", name)
+        
         var=tkinter.StringVar()
         var.set(default)
         dropdown=tkinter.OptionMenu(self,var,*options)
@@ -60,7 +70,9 @@ class Window(tkinter.Tk):
         self.widgets[name]=[dropdown,var]
     def set_size(self,size:list):
         self.geometry(str(size[0])+"x"+str(size[1]))
-    def set_color(self,color:Optional[list|str]): # type: ignore
+    def set_color(self,color:Optional[list|str]):
+        logging.info("Set color to: %s", color)
+        
         if type(color)==str:
             self.configure(bg=color)
         if type(color)==list:
