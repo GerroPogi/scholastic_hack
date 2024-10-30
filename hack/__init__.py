@@ -10,7 +10,7 @@ if not os.path.exists("hack/scholastic"):
     # SOON TO ADD: Image fetcher
 
 if not os.path.exists("hack/data.json"):
-    pass
+    
 
 def run():
     mainWin = Window("1000x1000")
