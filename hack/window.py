@@ -49,6 +49,11 @@ class Window(tkinter.Tk):
         else:
             label.pack()
         self.widgets[name]=label
+    def add_box(self,name,size,color,pos=[],**kwargs):
+        box= Box(self,size,pos,color,**kwargs)
+        box.packs()
+        self.widgets[name]=box
+    
     def run(self):
         self.mainloop()
     def get_pos(self):
@@ -77,12 +82,21 @@ class Window(tkinter.Tk):
             self.configure(bg=color)
         if type(color)==list:
             self.configure(bg='#%02x%02x%02x' % color)
+    def add_checkbox(self,name,text,default=False,pos=[],**kwargs):
+        logging.info("Created checkbox named: %s",name)
+        self.widgets[name]=[0,default]
+        checkBox=tkinter.Checkbutton(self,text=text,command=lambda: self.widgets[name].__setitem__(1,not self.widgets[name][1]),**kwargs)
+        checkBox.toggle() if default else 0
+        if pos:
+            checkBox.place(x=pos[0],y=pos[1])
+        else:
+            checkBox.pack()
     
 
 class Box(tkinter.Frame):
     widgets={}
-    def __init__(self,master,size,pos=[],color=None):
-        super().__init__(master=master,bg=color,width=size[0],height=size[1])
+    def __init__(self,master,size,pos=[],color=None,**kwargs):
+        super().__init__(master=master,bg=color,width=size[0],height=size[1],**kwargs)
         self.pos=pos
         self.size=size
         self.new_pos=pos
@@ -90,6 +104,27 @@ class Box(tkinter.Frame):
         self.height=size[1]
     def center(self):
         return self.new_pos[0] + (self.width/2),self.new_pos[1] + (self.height/2)
+    
+    def add_checkbox(self,name,text,default=False,pos=[],**kwargs):
+        logging.info("Created checkbox named: %s",name)
+        self.widgets[name]=[0,tkinter.IntVar(self,value=1 if default else 0)]
+        
+        checkBox=tkinter.Checkbutton(
+            self,
+            text=text,
+            command=lambda: print(self.widgets[name][1].get()),
+            variable=self.widgets[name][1],
+            onvalue=1,
+            offvalue=0,
+            **kwargs
+            )
+        if pos:
+            checkBox.place(x=pos[0],y=pos[1])
+        else:
+            checkBox.pack()
+        
+        
+        self.widgets[name][0]=checkBox
     
     def get_relative_corners(self):
         return [int(self.new_pos[0]),int(self.new_pos[1]),int(self.new_pos[0]+self.width),int(self.new_pos[0]+self.height)]
@@ -112,6 +147,15 @@ class Box(tkinter.Frame):
         else:
             entry.pack()
         self.widgets[name]=entry
+    def add_scale(self,name,from_,to,default,orient=tkinter.HORIZONTAL,pos=[],**kwargs):
+        logging.info("Created scale: %s", name)
+        
+        scale=tkinter.Scale(self,orient=orient,from_=from_,to=to,variable=tkinter.DoubleVar(value=default),**kwargs)
+        if pos:
+            scale.place(x=pos[0],y=pos[1])
+        else:
+            scale.pack()
+        self.widgets[name]=scale
     
     def get_widget(self,widget:str):
         return self.widgets[widget]
@@ -124,8 +168,8 @@ class Box(tkinter.Frame):
         else:
             button.pack()
         self.widgets[name]=button
-    def add_label(self, name:str, text:str,font=('Arial 24'),pos=[]):
-        label=tkinter.Label(master=self,text=text,font=font)
+    def add_label(self, name:str, text:str,font=('Arial 24'),pos=[],**kwargs):
+        label=tkinter.Label(master=self,text=text,font=font,**kwargs)
         if pos:
             label.place(x=pos[0],y=pos[1])
         else:

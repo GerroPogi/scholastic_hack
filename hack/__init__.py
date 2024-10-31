@@ -28,12 +28,13 @@ logging.info("fetched data.json")
 data= read("hack/data.json")
 
 
-bgColor="#2b2b28"
 def run():
     
     states={
         "active":True,
-        "stage":0
+        "stage":0,
+        "bgColor":"#2b2b28",
+        "font":"Heebo Medium"
     }
     while states["active"]:
         if states["stage"] == 0:
@@ -42,7 +43,7 @@ def run():
         if states["stage"] == 1:
             states = setting(states)
         if states["stage"]==2:
-            states = answerer(states)
+            states = answer(states)
             
 
 def mainPage(states):
@@ -67,14 +68,14 @@ def mainPage(states):
     image = ImageTk.PhotoImage(logo)
     mainPage.add_label("logo","",image=image)
     
-    mainPage.add_label("title","Welcome to the Scholastic Hack",font="impact 20",bg=bgColor,fg="white")
+    mainPage.add_label("title","Welcome to the Scholastic Hack",font="impact 20",bg=states["bgColor"],fg="white")
     
     mainPage.add_button("settings","Settings",lambda: switchState(1),fg="#656659")
     mainPage.add_button("settings","Start",lambda: switchState(2),fg="#656659")
     mainPage.add_button("exit","Exit", closer,fg="#656659")
     
-    mainPage.add_label("info","For more information, check the github:","consolas 10",bg=bgColor,fg="white")
-    mainPage.add_label("link","https://github.com/GerroPogi/scholastic_hack","consolas 10",bg=bgColor,fg="cyan",cursor="hand2")
+    mainPage.add_label("info","For more information, check the github:","consolas 10",bg=states["bgColor"],fg="white")
+    mainPage.add_label("link","https://github.com/GerroPogi/scholastic_hack","consolas 10",bg=states["bgColor"],fg="cyan",cursor="hand2")
     mainPage.get_widget("link").bind("<Button-1>", lambda e: callback("https://github.com/GerroPogi/scholastic_hack"))
     
     mainPage.run()
