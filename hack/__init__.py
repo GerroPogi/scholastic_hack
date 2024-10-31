@@ -1,6 +1,7 @@
 import logging
 from .settings import setting
 from .window import Window
+from .answerer import answer
 import os
 import requests as r
 from PIL import Image, ImageTk
@@ -40,6 +41,9 @@ def run():
             states = mainPage(states)
         if states["stage"] == 1:
             states = setting(states)
+        if states["stage"]==2:
+            states = answerer(states)
+            
 
 def mainPage(states):
     def closer():

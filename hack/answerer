@@ -1,7 +1,7 @@
 from .window import Window
 
 
-def setting(states):
+def answer(states):
     mainWin=Window("500x500")
     
     mainWin.run()
