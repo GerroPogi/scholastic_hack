@@ -1,8 +1,10 @@
 import logging
+import requests
 from .settings import setting
 from .window import Window
 from .answerer import answer
 import os
+from bs4 import BeautifulSoup
 import requests as r
 from PIL import Image, ImageTk
 from .utils import *
@@ -27,6 +29,15 @@ if not os.path.exists("hack/data.json"):
 logging.info("fetched data.json")
 data= read("hack/data.json")
 
+def get_chat_models(tag):
+    url= 'https://api.zukijourney.com/v1/models'
+    page=requests.get(url)
+    models=json.loads(BeautifulSoup(page.text,"html").text)['data']
+    chat_models=[]
+    for model in models:
+        if model['type']=='chat.completions' and model['is_free']:
+            chat_models.append(model[tag])
+    return chat_models
 
 def run():
     
@@ -34,7 +45,9 @@ def run():
         "active":True,
         "stage":0,
         "bgColor":"#2b2b28",
-        "font":"Heebo Medium"
+        "font":"Heebo Medium",
+        "data":data,
+        "chat_models":get_chat_models("id")
     }
     while states["active"]:
         if states["stage"] == 0:
@@ -50,6 +63,9 @@ def mainPage(states):
     def closer():
         nonlocal states
         states["active"]=False
+        
+        write(states["data"],"hack/data.json")
+        
         mainPage.destroy()
     def switchState(state):
         nonlocal states
@@ -58,7 +74,8 @@ def mainPage(states):
     
     logging.info("Opening Main Page")
     mainPage = Window("500x500")
-    data["screen_size"]=[mainPage.winfo_screenwidth(), mainPage.winfo_screenheight()] if "screen_size" in data else 0
+    data["screen_size"]=[mainPage.winfo_screenwidth(), mainPage.winfo_screenheight()] if not "screen_size" in data else data["screen_size"]
+    logging.info("Added Screensize to the data var: %s" % data["screen_size"])
     
     mainPage.set_color("#2b2b28")
     mainPage.title("Scholastic Hack made by Beronicous")
@@ -70,9 +87,9 @@ def mainPage(states):
     
     mainPage.add_label("title","Welcome to the Scholastic Hack",font="impact 20",bg=states["bgColor"],fg="white")
     
-    mainPage.add_button("settings","Settings",lambda: switchState(1),fg="#656659")
-    mainPage.add_button("settings","Start",lambda: switchState(2),fg="#656659")
-    mainPage.add_button("exit","Exit", closer,fg="#656659")
+    mainPage.add_button("settings","Settings",lambda: switchState(1),bg="#656659",fg="white",font=(states["font"],20))
+    mainPage.add_button("settings","Start",lambda: switchState(2),bg="#656659",fg="white",font=(states["font"],20))
+    mainPage.add_button("exit","Exit", closer,bg="#656659",fg="white",font=(states["font"],20))
     
     mainPage.add_label("info","For more information, check the github:","consolas 10",bg=states["bgColor"],fg="white")
     mainPage.add_label("link","https://github.com/GerroPogi/scholastic_hack","consolas 10",bg=states["bgColor"],fg="cyan",cursor="hand2")

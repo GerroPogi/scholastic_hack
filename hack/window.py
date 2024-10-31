@@ -104,6 +104,19 @@ class Box(tkinter.Frame):
         self.height=size[1]
     def center(self):
         return self.new_pos[0] + (self.width/2),self.new_pos[1] + (self.height/2)
+    def add_dropdown(self, name,default,options,pos=[],**kwargs):
+        logging.info("Created dropdown: %s", name)
+        
+        var=tkinter.StringVar()
+        var.set(default)
+        dropdown=tkinter.OptionMenu(self,var,*options)
+        dropdown.configure(**kwargs)
+        
+        if pos:
+            dropdown.place(x=pos[0],y=pos[1])
+        else:
+            dropdown.pack()
+        self.widgets[name]=[dropdown,var]
     
     def add_checkbox(self,name,text,default=False,pos=[],**kwargs):
         logging.info("Created checkbox named: %s",name)
@@ -112,10 +125,7 @@ class Box(tkinter.Frame):
         checkBox=tkinter.Checkbutton(
             self,
             text=text,
-            command=lambda: print(self.widgets[name][1].get()),
             variable=self.widgets[name][1],
-            onvalue=1,
-            offvalue=0,
             **kwargs
             )
         if pos:
@@ -160,9 +170,11 @@ class Box(tkinter.Frame):
     def get_widget(self,widget:str):
         return self.widgets[widget]
     
-    def add_button(self,name:str,text:str,command,size:int = 10,font=('Arial 24'),pos=[]):
+    def add_button(self,name:str,text:str,command,size:int = 10,font=('Arial 24'),pos=[],**kwargs):
+        logging.info("Created button: %s", name)
         
-        button=tkinter.Button(master=self,text=text,width=size,font=font,command=command)
+        button=tkinter.Button(self,text=text,width=size,font=font,command=command)
+        button.configure(**kwargs)
         if pos:
             button.place(x=pos[0],y=pos[1])
         else:
