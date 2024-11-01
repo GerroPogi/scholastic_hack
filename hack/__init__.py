@@ -39,6 +39,7 @@ def get_chat_models(tag):
             chat_models.append(model[tag])
     return chat_models
 
+
 def run():
     
     states={
@@ -47,7 +48,8 @@ def run():
         "bgColor":"#2b2b28",
         "font":"Heebo Medium",
         "data":data,
-        "chat_models":get_chat_models("id")
+        "chat_models":get_chat_models("id"),
+        "scholastic":False # Checks if the hack is currently active
     }
     while states["active"]:
         if states["stage"] == 0:

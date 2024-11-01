@@ -1,8 +1,15 @@
+from threading import Thread
+import keyboard
 from .window import Window,DraggableBox
 
+def format_hotkey(hotkey):
+    formatedKeys=""
+    for i,key in enumerate(hotkey):
+        formatedKeys+=key.title()+("+" if not (i==len(hotkey)-1) else "")
+    return formatedKeys
 
 def setting(states):
-    mainWin=Window("500x500")
+    mainWin=Window("500x600")
     states["stage"]=0
     mainWin.title("Settings of Scholastic Hack")
     mainWin.set_color(states["bgColor"])
@@ -89,6 +96,58 @@ def setting(states):
         pos=[210,70],
         width=20,
         bg="#ccb8b9"
+    )
+    
+    # Other options section
+    mainWin.add_box("others-box",[400,150],"#706463",[50,400])
+    othersBox=mainWin.get_widget("others-box")
+    othersBox.add_label(
+        "title",
+        "Others",
+        font=(states["font"],20),
+        pos=[150,10],
+        bg="#706463",
+        fg="white"
+        )
+    
+    othersBox.add_label(
+        "hotkey",
+        f"Hotkey: {format_hotkey(states["data"]["hotkey"])}" ,
+        pos=[10,50],
+        bg="#706463",
+        fg="white",
+        font=(states["font"],15)
+    )
+    
+    def set_new_key():
+        othersBox.get_widget("hotkey").configure(text="Waitin for hotkey")
+        mainWin.update()
+        new_hotkey=[]
+        keyBefore=None
+        while True:
+            key = keyboard.read_key()
+            new_hotkey.append(key) if key!=keyBefore else 0
+            keyBefore=key if keyBefore!=key else keyBefore
+            
+            othersBox.get_widget("hotkey").configure(text=f"Waitin for hotkey: {format_hotkey(new_hotkey)}")
+            mainWin.update()
+            
+            if len(new_hotkey)>=2:
+                break
+        print(new_hotkey)
+        othersBox.get_widget("hotkey").configure(text=f"Hotkey: {format_hotkey(new_hotkey)}")
+        mainWin.update()
+        
+    
+    othersBox.add_button(
+        "hotkey-button",
+        "Set new hotkey",
+        lambda: Thread(target=set_new_key).start(),
+        font=(states["font"],10),
+        bg="#ccb8b9",
+        pos=[10,100],
+        width=20,
+        height=1
     )
     
     mainWin.run()
