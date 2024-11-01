@@ -17,15 +17,17 @@ class Window(tkinter.Tk):
             entry.pack()
         self.widgets[name]=entry
     
-    def add_scale(self,name,from_,to,default,orient=tkinter.HORIZONTAL,pos=[]):
+    def add_scale(self,name,from_,to,default,orient=tkinter.HORIZONTAL,pos=[],**kwargs):
         logging.info("Created scale: %s", name)
         
-        scale=tkinter.Scale(self,orient=orient,from_=from_,to=to,variable=tkinter.DoubleVar(value=default))
+        scale=tkinter.Scale(self,orient=orient,from_=from_,to=to,variable=tkinter.DoubleVar(value=default),**kwargs)
+        scale.set(default)
         if pos:
             scale.place(x=pos[0],y=pos[1])
         else:
             scale.pack()
         self.widgets[name]=scale
+    
     
     def get_widget(self,widget:str):
         return self.widgets[widget]
@@ -151,7 +153,7 @@ class Box(tkinter.Frame):
             self.pack()
     def add_entry(self,name:str,size:int = 10,default_entry="",font=('Arial 24'),pos=[],**kwargs):
         
-        entry=tkinter.Entry(master=self,width=size,font=font,textvariable=default_entry)
+        entry=tkinter.Entry(master=self,width=size,font=font,textvariable=tkinter.StringVar(value=default_entry))
         entry.configure(**kwargs)
         if pos:
             entry.place(x=pos[0],y=pos[1])
