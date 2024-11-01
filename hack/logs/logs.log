@@ -16818,3 +16818,901 @@ INFO:10/31/2024 02:53:58 AM: Created label: link
 [INFO]: [11/01/2024 08:13:18 PM]: Created dropdown: models
 [INFO]: [11/01/2024 08:13:18 PM]: Created button: boxes
 [INFO]: [11/01/2024 08:13:18 PM]: Created button: hotkey-button
+[INFO]: [11/01/2024 10:34:08 PM]: Checking if hack folder exists
+[INFO]: [11/01/2024 10:34:08 PM]: Checking if scholastic folder exists
+[INFO]: [11/01/2024 10:34:08 PM]: Checking if data exists
+[INFO]: [11/01/2024 10:34:08 PM]: fetched data.json
+[DEBUG]: [11/01/2024 10:34:08 PM]: Starting new HTTPS connection (1): api.zukijourney.com:443
+[DEBUG]: [11/01/2024 10:34:10 PM]: https://api.zukijourney.com:443 "GET /v1/models HTTP/1.1" 200 None
+[INFO]: [11/01/2024 10:34:10 PM]: Opening Main Page
+[INFO]: [11/01/2024 10:34:11 PM]: Added Screensize to the data var: [1366, 768]
+[INFO]: [11/01/2024 10:34:11 PM]: Set color to: #2b2b28
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing BlpImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing BmpImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing BufrStubImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing CurImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing DcxImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing DdsImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing EpsImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing FitsImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing FliImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing FpxImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing FtexImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing GbrImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing GifImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing GribStubImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing IcnsImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing IcoImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing ImImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing ImtImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing IptcImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing JpegImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing McIdasImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing MicImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing MpegImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing MpoImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing MspImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing PalmImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing PcdImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing PcxImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing PdfImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing PixarImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing PngImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing PpmImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing PsdImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing QoiImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing SgiImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing SpiderImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing SunImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing TgaImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing TiffImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing WebPImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing WmfImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing XbmImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing XpmImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: Importing XVThumbImagePlugin
+[DEBUG]: [11/01/2024 10:34:11 PM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [11/01/2024 10:34:11 PM]: STREAM b'orNT' 161919 1
+[DEBUG]: [11/01/2024 10:34:11 PM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [11/01/2024 10:34:11 PM]: STREAM b'IDAT' 161932 6762
+[INFO]: [11/01/2024 10:34:11 PM]: Created label: logo
+[INFO]: [11/01/2024 10:34:11 PM]: Created label: title
+[INFO]: [11/01/2024 10:34:11 PM]: Created button: settings
+[INFO]: [11/01/2024 10:34:11 PM]: Created button: settings
+[INFO]: [11/01/2024 10:34:11 PM]: Created button: exit
+[INFO]: [11/01/2024 10:34:11 PM]: Created label: info
+[INFO]: [11/01/2024 10:34:11 PM]: Created label: link
+[INFO]: [11/01/2024 10:34:12 PM]: Set color to: #2b2b28
+[INFO]: [11/01/2024 10:34:12 PM]: Created scale: delay
+[INFO]: [11/01/2024 10:34:12 PM]: Created checkbox named: 2pager
+[INFO]: [11/01/2024 10:34:12 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:34:12 PM]: Created dropdown: models
+[INFO]: [11/01/2024 10:34:12 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:34:12 PM]: Created button: hotkey-button
+[INFO]: [11/01/2024 10:34:30 PM]: Checking if hack folder exists
+[INFO]: [11/01/2024 10:34:30 PM]: Checking if scholastic folder exists
+[INFO]: [11/01/2024 10:34:30 PM]: Checking if data exists
+[INFO]: [11/01/2024 10:34:30 PM]: fetched data.json
+[DEBUG]: [11/01/2024 10:34:30 PM]: Starting new HTTPS connection (1): api.zukijourney.com:443
+[DEBUG]: [11/01/2024 10:34:31 PM]: https://api.zukijourney.com:443 "GET /v1/models HTTP/1.1" 200 None
+[INFO]: [11/01/2024 10:34:31 PM]: Opening Main Page
+[INFO]: [11/01/2024 10:34:31 PM]: Added Screensize to the data var: [1366, 768]
+[INFO]: [11/01/2024 10:34:31 PM]: Set color to: #2b2b28
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing BlpImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing BmpImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing BufrStubImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing CurImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing DcxImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing DdsImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing EpsImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing FitsImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing FliImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing FpxImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing FtexImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing GbrImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing GifImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing GribStubImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing IcnsImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing IcoImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing ImImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing ImtImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing IptcImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing JpegImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing McIdasImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing MicImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing MpegImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing MpoImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing MspImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing PalmImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing PcdImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing PcxImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing PdfImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing PixarImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing PngImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing PpmImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing PsdImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing QoiImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing SgiImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing SpiderImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing SunImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing TgaImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing TiffImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing WebPImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing WmfImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing XbmImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing XpmImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: Importing XVThumbImagePlugin
+[DEBUG]: [11/01/2024 10:34:31 PM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [11/01/2024 10:34:31 PM]: STREAM b'orNT' 161919 1
+[DEBUG]: [11/01/2024 10:34:31 PM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [11/01/2024 10:34:31 PM]: STREAM b'IDAT' 161932 6762
+[INFO]: [11/01/2024 10:34:31 PM]: Created label: logo
+[INFO]: [11/01/2024 10:34:31 PM]: Created label: title
+[INFO]: [11/01/2024 10:34:31 PM]: Created button: settings
+[INFO]: [11/01/2024 10:34:31 PM]: Created button: settings
+[INFO]: [11/01/2024 10:34:31 PM]: Created button: exit
+[INFO]: [11/01/2024 10:34:31 PM]: Created label: info
+[INFO]: [11/01/2024 10:34:31 PM]: Created label: link
+[INFO]: [11/01/2024 10:34:32 PM]: Set color to: #2b2b28
+[INFO]: [11/01/2024 10:34:32 PM]: Created scale: delay
+[INFO]: [11/01/2024 10:34:32 PM]: Created checkbox named: 2pager
+[INFO]: [11/01/2024 10:34:32 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:34:32 PM]: Created dropdown: models
+[INFO]: [11/01/2024 10:34:32 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:34:32 PM]: Created button: hotkey-button
+[INFO]: [11/01/2024 10:34:49 PM]: Checking if hack folder exists
+[INFO]: [11/01/2024 10:34:49 PM]: Checking if scholastic folder exists
+[INFO]: [11/01/2024 10:34:49 PM]: Checking if data exists
+[INFO]: [11/01/2024 10:34:49 PM]: fetched data.json
+[DEBUG]: [11/01/2024 10:34:49 PM]: Starting new HTTPS connection (1): api.zukijourney.com:443
+[DEBUG]: [11/01/2024 10:34:51 PM]: https://api.zukijourney.com:443 "GET /v1/models HTTP/1.1" 200 None
+[INFO]: [11/01/2024 10:34:51 PM]: Opening Main Page
+[INFO]: [11/01/2024 10:34:51 PM]: Added Screensize to the data var: [1366, 768]
+[INFO]: [11/01/2024 10:34:51 PM]: Set color to: #2b2b28
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing BlpImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing BmpImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing BufrStubImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing CurImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing DcxImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing DdsImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing EpsImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing FitsImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing FliImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing FpxImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing FtexImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing GbrImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing GifImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing GribStubImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing IcnsImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing IcoImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing ImImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing ImtImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing IptcImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing JpegImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing McIdasImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing MicImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing MpegImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing MpoImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing MspImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing PalmImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing PcdImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing PcxImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing PdfImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing PixarImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing PngImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing PpmImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing PsdImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing QoiImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing SgiImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing SpiderImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing SunImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing TgaImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing TiffImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing WebPImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing WmfImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing XbmImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing XpmImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: Importing XVThumbImagePlugin
+[DEBUG]: [11/01/2024 10:34:51 PM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [11/01/2024 10:34:51 PM]: STREAM b'orNT' 161919 1
+[DEBUG]: [11/01/2024 10:34:51 PM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [11/01/2024 10:34:51 PM]: STREAM b'IDAT' 161932 6762
+[INFO]: [11/01/2024 10:34:51 PM]: Created label: logo
+[INFO]: [11/01/2024 10:34:51 PM]: Created label: title
+[INFO]: [11/01/2024 10:34:51 PM]: Created button: settings
+[INFO]: [11/01/2024 10:34:51 PM]: Created button: settings
+[INFO]: [11/01/2024 10:34:51 PM]: Created button: exit
+[INFO]: [11/01/2024 10:34:51 PM]: Created label: info
+[INFO]: [11/01/2024 10:34:51 PM]: Created label: link
+[INFO]: [11/01/2024 10:34:52 PM]: Set color to: #2b2b28
+[INFO]: [11/01/2024 10:34:52 PM]: Created scale: delay
+[INFO]: [11/01/2024 10:34:52 PM]: Created checkbox named: 2pager
+[INFO]: [11/01/2024 10:34:52 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:34:52 PM]: Created dropdown: models
+[INFO]: [11/01/2024 10:34:52 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:34:52 PM]: Created button: hotkey-button
+[INFO]: [11/01/2024 10:35:06 PM]: Checking if hack folder exists
+[INFO]: [11/01/2024 10:35:06 PM]: Checking if scholastic folder exists
+[INFO]: [11/01/2024 10:35:06 PM]: Checking if data exists
+[INFO]: [11/01/2024 10:35:06 PM]: fetched data.json
+[DEBUG]: [11/01/2024 10:35:06 PM]: Starting new HTTPS connection (1): api.zukijourney.com:443
+[DEBUG]: [11/01/2024 10:35:07 PM]: https://api.zukijourney.com:443 "GET /v1/models HTTP/1.1" 200 None
+[INFO]: [11/01/2024 10:35:07 PM]: Opening Main Page
+[INFO]: [11/01/2024 10:35:07 PM]: Added Screensize to the data var: [1366, 768]
+[INFO]: [11/01/2024 10:35:07 PM]: Set color to: #2b2b28
+[DEBUG]: [11/01/2024 10:35:07 PM]: Importing BlpImagePlugin
+[DEBUG]: [11/01/2024 10:35:07 PM]: Importing BmpImagePlugin
+[DEBUG]: [11/01/2024 10:35:07 PM]: Importing BufrStubImagePlugin
+[DEBUG]: [11/01/2024 10:35:07 PM]: Importing CurImagePlugin
+[DEBUG]: [11/01/2024 10:35:07 PM]: Importing DcxImagePlugin
+[DEBUG]: [11/01/2024 10:35:07 PM]: Importing DdsImagePlugin
+[DEBUG]: [11/01/2024 10:35:07 PM]: Importing EpsImagePlugin
+[DEBUG]: [11/01/2024 10:35:07 PM]: Importing FitsImagePlugin
+[DEBUG]: [11/01/2024 10:35:07 PM]: Importing FliImagePlugin
+[DEBUG]: [11/01/2024 10:35:07 PM]: Importing FpxImagePlugin
+[DEBUG]: [11/01/2024 10:35:07 PM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:35:07 PM]: Importing FtexImagePlugin
+[DEBUG]: [11/01/2024 10:35:07 PM]: Importing GbrImagePlugin
+[DEBUG]: [11/01/2024 10:35:07 PM]: Importing GifImagePlugin
+[DEBUG]: [11/01/2024 10:35:07 PM]: Importing GribStubImagePlugin
+[DEBUG]: [11/01/2024 10:35:07 PM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [11/01/2024 10:35:07 PM]: Importing IcnsImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing IcoImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing ImImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing ImtImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing IptcImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing JpegImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing McIdasImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing MicImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing MpegImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing MpoImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing MspImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing PalmImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing PcdImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing PcxImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing PdfImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing PixarImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing PngImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing PpmImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing PsdImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing QoiImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing SgiImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing SpiderImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing SunImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing TgaImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing TiffImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing WebPImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing WmfImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing XbmImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing XpmImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: Importing XVThumbImagePlugin
+[DEBUG]: [11/01/2024 10:35:08 PM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [11/01/2024 10:35:08 PM]: STREAM b'orNT' 161919 1
+[DEBUG]: [11/01/2024 10:35:08 PM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [11/01/2024 10:35:08 PM]: STREAM b'IDAT' 161932 6762
+[INFO]: [11/01/2024 10:35:08 PM]: Created label: logo
+[INFO]: [11/01/2024 10:35:08 PM]: Created label: title
+[INFO]: [11/01/2024 10:35:08 PM]: Created button: settings
+[INFO]: [11/01/2024 10:35:08 PM]: Created button: settings
+[INFO]: [11/01/2024 10:35:08 PM]: Created button: exit
+[INFO]: [11/01/2024 10:35:08 PM]: Created label: info
+[INFO]: [11/01/2024 10:35:08 PM]: Created label: link
+[INFO]: [11/01/2024 10:35:08 PM]: Set color to: #2b2b28
+[INFO]: [11/01/2024 10:35:08 PM]: Created scale: delay
+[INFO]: [11/01/2024 10:35:08 PM]: Created checkbox named: 2pager
+[INFO]: [11/01/2024 10:35:08 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:35:08 PM]: Created dropdown: models
+[INFO]: [11/01/2024 10:35:08 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:35:08 PM]: Created button: hotkey-button
+[INFO]: [11/01/2024 10:35:20 PM]: Checking if hack folder exists
+[INFO]: [11/01/2024 10:35:20 PM]: Checking if scholastic folder exists
+[INFO]: [11/01/2024 10:35:20 PM]: Checking if data exists
+[INFO]: [11/01/2024 10:35:20 PM]: fetched data.json
+[DEBUG]: [11/01/2024 10:35:20 PM]: Starting new HTTPS connection (1): api.zukijourney.com:443
+[DEBUG]: [11/01/2024 10:35:21 PM]: https://api.zukijourney.com:443 "GET /v1/models HTTP/1.1" 200 None
+[INFO]: [11/01/2024 10:35:21 PM]: Opening Main Page
+[INFO]: [11/01/2024 10:35:21 PM]: Added Screensize to the data var: [1366, 768]
+[INFO]: [11/01/2024 10:35:21 PM]: Set color to: #2b2b28
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing BlpImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing BmpImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing BufrStubImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing CurImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing DcxImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing DdsImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing EpsImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing FitsImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing FliImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing FpxImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing FtexImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing GbrImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing GifImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing GribStubImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing IcnsImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing IcoImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing ImImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing ImtImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing IptcImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing JpegImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing McIdasImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing MicImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing MpegImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing MpoImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing MspImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing PalmImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing PcdImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing PcxImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing PdfImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing PixarImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing PngImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing PpmImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing PsdImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing QoiImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing SgiImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing SpiderImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing SunImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing TgaImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing TiffImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing WebPImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing WmfImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing XbmImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing XpmImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: Importing XVThumbImagePlugin
+[DEBUG]: [11/01/2024 10:35:21 PM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [11/01/2024 10:35:21 PM]: STREAM b'orNT' 161919 1
+[DEBUG]: [11/01/2024 10:35:21 PM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [11/01/2024 10:35:21 PM]: STREAM b'IDAT' 161932 6762
+[INFO]: [11/01/2024 10:35:21 PM]: Created label: logo
+[INFO]: [11/01/2024 10:35:21 PM]: Created label: title
+[INFO]: [11/01/2024 10:35:21 PM]: Created button: settings
+[INFO]: [11/01/2024 10:35:21 PM]: Created button: settings
+[INFO]: [11/01/2024 10:35:21 PM]: Created button: exit
+[INFO]: [11/01/2024 10:35:21 PM]: Created label: info
+[INFO]: [11/01/2024 10:35:21 PM]: Created label: link
+[INFO]: [11/01/2024 10:35:52 PM]: Checking if hack folder exists
+[INFO]: [11/01/2024 10:35:52 PM]: Checking if scholastic folder exists
+[INFO]: [11/01/2024 10:35:52 PM]: Checking if data exists
+[INFO]: [11/01/2024 10:35:52 PM]: fetched data.json
+[DEBUG]: [11/01/2024 10:35:52 PM]: Starting new HTTPS connection (1): api.zukijourney.com:443
+[DEBUG]: [11/01/2024 10:35:53 PM]: https://api.zukijourney.com:443 "GET /v1/models HTTP/1.1" 200 None
+[INFO]: [11/01/2024 10:35:53 PM]: Opening Main Page
+[INFO]: [11/01/2024 10:35:53 PM]: Added Screensize to the data var: [1366, 768]
+[INFO]: [11/01/2024 10:35:53 PM]: Set color to: #2b2b28
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing BlpImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing BmpImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing BufrStubImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing CurImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing DcxImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing DdsImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing EpsImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing FitsImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing FliImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing FpxImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing FtexImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing GbrImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing GifImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing GribStubImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing IcnsImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing IcoImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing ImImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing ImtImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing IptcImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing JpegImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing McIdasImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing MicImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing MpegImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing MpoImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing MspImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing PalmImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing PcdImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing PcxImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing PdfImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing PixarImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing PngImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing PpmImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing PsdImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing QoiImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing SgiImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing SpiderImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing SunImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing TgaImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing TiffImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing WebPImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing WmfImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing XbmImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing XpmImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: Importing XVThumbImagePlugin
+[DEBUG]: [11/01/2024 10:35:53 PM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [11/01/2024 10:35:53 PM]: STREAM b'orNT' 161919 1
+[DEBUG]: [11/01/2024 10:35:53 PM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [11/01/2024 10:35:53 PM]: STREAM b'IDAT' 161932 6762
+[INFO]: [11/01/2024 10:35:53 PM]: Created label: logo
+[INFO]: [11/01/2024 10:35:53 PM]: Created label: title
+[INFO]: [11/01/2024 10:35:53 PM]: Created button: settings
+[INFO]: [11/01/2024 10:35:53 PM]: Created button: settings
+[INFO]: [11/01/2024 10:35:53 PM]: Created button: exit
+[INFO]: [11/01/2024 10:35:53 PM]: Created label: info
+[INFO]: [11/01/2024 10:35:53 PM]: Created label: link
+[INFO]: [11/01/2024 10:35:55 PM]: Set color to: #2b2b28
+[INFO]: [11/01/2024 10:35:55 PM]: Created scale: delay
+[INFO]: [11/01/2024 10:35:55 PM]: Created checkbox named: 2pager
+[INFO]: [11/01/2024 10:35:55 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:35:55 PM]: Created dropdown: models
+[INFO]: [11/01/2024 10:35:55 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:35:55 PM]: Created button: hotkey-button
+[INFO]: [11/01/2024 10:36:34 PM]: Checking if hack folder exists
+[INFO]: [11/01/2024 10:36:34 PM]: Checking if scholastic folder exists
+[INFO]: [11/01/2024 10:36:34 PM]: Checking if data exists
+[INFO]: [11/01/2024 10:36:34 PM]: fetched data.json
+[DEBUG]: [11/01/2024 10:36:34 PM]: Starting new HTTPS connection (1): api.zukijourney.com:443
+[DEBUG]: [11/01/2024 10:36:36 PM]: https://api.zukijourney.com:443 "GET /v1/models HTTP/1.1" 200 None
+[INFO]: [11/01/2024 10:36:36 PM]: Opening Main Page
+[INFO]: [11/01/2024 10:36:36 PM]: Added Screensize to the data var: [1366, 768]
+[INFO]: [11/01/2024 10:36:36 PM]: Set color to: #2b2b28
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing BlpImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing BmpImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing BufrStubImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing CurImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing DcxImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing DdsImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing EpsImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing FitsImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing FliImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing FpxImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing FtexImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing GbrImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing GifImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing GribStubImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing IcnsImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing IcoImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing ImImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing ImtImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing IptcImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing JpegImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing McIdasImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing MicImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing MpegImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing MpoImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing MspImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing PalmImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing PcdImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing PcxImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing PdfImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing PixarImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing PngImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing PpmImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing PsdImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing QoiImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing SgiImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing SpiderImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing SunImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing TgaImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing TiffImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing WebPImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing WmfImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing XbmImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing XpmImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: Importing XVThumbImagePlugin
+[DEBUG]: [11/01/2024 10:36:36 PM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [11/01/2024 10:36:36 PM]: STREAM b'orNT' 161919 1
+[DEBUG]: [11/01/2024 10:36:36 PM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [11/01/2024 10:36:36 PM]: STREAM b'IDAT' 161932 6762
+[INFO]: [11/01/2024 10:36:36 PM]: Created label: logo
+[INFO]: [11/01/2024 10:36:36 PM]: Created label: title
+[INFO]: [11/01/2024 10:36:36 PM]: Created button: settings
+[INFO]: [11/01/2024 10:36:36 PM]: Created button: settings
+[INFO]: [11/01/2024 10:36:36 PM]: Created button: exit
+[INFO]: [11/01/2024 10:36:36 PM]: Created label: info
+[INFO]: [11/01/2024 10:36:36 PM]: Created label: link
+[INFO]: [11/01/2024 10:36:37 PM]: Set color to: #2b2b28
+[INFO]: [11/01/2024 10:36:37 PM]: Created scale: delay
+[INFO]: [11/01/2024 10:36:37 PM]: Created checkbox named: 2pager
+[INFO]: [11/01/2024 10:36:37 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:36:37 PM]: Created dropdown: models
+[INFO]: [11/01/2024 10:36:37 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:36:37 PM]: Created button: hotkey-button
+[INFO]: [11/01/2024 10:36:46 PM]: Checking if hack folder exists
+[INFO]: [11/01/2024 10:36:46 PM]: Checking if scholastic folder exists
+[INFO]: [11/01/2024 10:36:46 PM]: Checking if data exists
+[INFO]: [11/01/2024 10:36:46 PM]: fetched data.json
+[DEBUG]: [11/01/2024 10:36:46 PM]: Starting new HTTPS connection (1): api.zukijourney.com:443
+[DEBUG]: [11/01/2024 10:36:47 PM]: https://api.zukijourney.com:443 "GET /v1/models HTTP/1.1" 200 None
+[INFO]: [11/01/2024 10:36:47 PM]: Opening Main Page
+[INFO]: [11/01/2024 10:36:47 PM]: Added Screensize to the data var: [1366, 768]
+[INFO]: [11/01/2024 10:36:47 PM]: Set color to: #2b2b28
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing BlpImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing BmpImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing BufrStubImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing CurImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing DcxImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing DdsImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing EpsImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing FitsImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing FliImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing FpxImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing FtexImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing GbrImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing GifImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing GribStubImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing IcnsImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing IcoImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing ImImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing ImtImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing IptcImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing JpegImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing McIdasImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing MicImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing MpegImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing MpoImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing MspImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing PalmImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing PcdImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing PcxImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing PdfImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing PixarImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing PngImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing PpmImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing PsdImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing QoiImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing SgiImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing SpiderImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing SunImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing TgaImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing TiffImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing WebPImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing WmfImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing XbmImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing XpmImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: Importing XVThumbImagePlugin
+[DEBUG]: [11/01/2024 10:36:47 PM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [11/01/2024 10:36:47 PM]: STREAM b'orNT' 161919 1
+[DEBUG]: [11/01/2024 10:36:47 PM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [11/01/2024 10:36:47 PM]: STREAM b'IDAT' 161932 6762
+[INFO]: [11/01/2024 10:36:47 PM]: Created label: logo
+[INFO]: [11/01/2024 10:36:47 PM]: Created label: title
+[INFO]: [11/01/2024 10:36:47 PM]: Created button: settings
+[INFO]: [11/01/2024 10:36:47 PM]: Created button: settings
+[INFO]: [11/01/2024 10:36:47 PM]: Created button: exit
+[INFO]: [11/01/2024 10:36:47 PM]: Created label: info
+[INFO]: [11/01/2024 10:36:47 PM]: Created label: link
+[INFO]: [11/01/2024 10:36:48 PM]: Set color to: #2b2b28
+[INFO]: [11/01/2024 10:36:48 PM]: Created scale: delay
+[INFO]: [11/01/2024 10:36:48 PM]: Created checkbox named: 2pager
+[INFO]: [11/01/2024 10:36:48 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:36:48 PM]: Created dropdown: models
+[INFO]: [11/01/2024 10:36:48 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:36:48 PM]: Created button: hotkey-button
+[INFO]: [11/01/2024 10:37:01 PM]: Checking if hack folder exists
+[INFO]: [11/01/2024 10:37:01 PM]: Checking if scholastic folder exists
+[INFO]: [11/01/2024 10:37:01 PM]: Checking if data exists
+[INFO]: [11/01/2024 10:37:01 PM]: fetched data.json
+[DEBUG]: [11/01/2024 10:37:01 PM]: Starting new HTTPS connection (1): api.zukijourney.com:443
+[DEBUG]: [11/01/2024 10:37:02 PM]: https://api.zukijourney.com:443 "GET /v1/models HTTP/1.1" 200 None
+[INFO]: [11/01/2024 10:37:02 PM]: Opening Main Page
+[INFO]: [11/01/2024 10:37:02 PM]: Added Screensize to the data var: [1366, 768]
+[INFO]: [11/01/2024 10:37:02 PM]: Set color to: #2b2b28
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing BlpImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing BmpImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing BufrStubImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing CurImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing DcxImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing DdsImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing EpsImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing FitsImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing FliImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing FpxImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing FtexImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing GbrImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing GifImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing GribStubImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing IcnsImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing IcoImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing ImImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing ImtImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing IptcImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing JpegImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing McIdasImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing MicImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing MpegImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing MpoImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing MspImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing PalmImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing PcdImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing PcxImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing PdfImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing PixarImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing PngImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing PpmImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing PsdImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing QoiImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing SgiImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing SpiderImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing SunImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing TgaImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing TiffImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing WebPImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing WmfImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing XbmImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing XpmImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: Importing XVThumbImagePlugin
+[DEBUG]: [11/01/2024 10:37:02 PM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [11/01/2024 10:37:02 PM]: STREAM b'orNT' 161919 1
+[DEBUG]: [11/01/2024 10:37:02 PM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [11/01/2024 10:37:02 PM]: STREAM b'IDAT' 161932 6762
+[INFO]: [11/01/2024 10:37:02 PM]: Created label: logo
+[INFO]: [11/01/2024 10:37:02 PM]: Created label: title
+[INFO]: [11/01/2024 10:37:02 PM]: Created button: settings
+[INFO]: [11/01/2024 10:37:02 PM]: Created button: settings
+[INFO]: [11/01/2024 10:37:02 PM]: Created button: exit
+[INFO]: [11/01/2024 10:37:02 PM]: Created label: info
+[INFO]: [11/01/2024 10:37:02 PM]: Created label: link
+[INFO]: [11/01/2024 10:37:03 PM]: Set color to: #2b2b28
+[INFO]: [11/01/2024 10:37:03 PM]: Created scale: delay
+[INFO]: [11/01/2024 10:37:03 PM]: Created checkbox named: 2pager
+[INFO]: [11/01/2024 10:37:03 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:37:03 PM]: Created dropdown: models
+[INFO]: [11/01/2024 10:37:03 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:37:03 PM]: Created button: hotkey-button
+[INFO]: [11/01/2024 10:39:19 PM]: Checking if hack folder exists
+[INFO]: [11/01/2024 10:39:19 PM]: Checking if scholastic folder exists
+[INFO]: [11/01/2024 10:39:19 PM]: Checking if data exists
+[INFO]: [11/01/2024 10:39:19 PM]: fetched data.json
+[DEBUG]: [11/01/2024 10:39:19 PM]: Starting new HTTPS connection (1): api.zukijourney.com:443
+[INFO]: [11/01/2024 10:39:27 PM]: Checking if hack folder exists
+[INFO]: [11/01/2024 10:39:27 PM]: Checking if scholastic folder exists
+[INFO]: [11/01/2024 10:39:27 PM]: Checking if data exists
+[INFO]: [11/01/2024 10:39:27 PM]: fetched data.json
+[DEBUG]: [11/01/2024 10:39:27 PM]: Starting new HTTPS connection (1): api.zukijourney.com:443
+[DEBUG]: [11/01/2024 10:39:28 PM]: https://api.zukijourney.com:443 "GET /v1/models HTTP/1.1" 200 None
+[INFO]: [11/01/2024 10:39:28 PM]: Opening Main Page
+[INFO]: [11/01/2024 10:39:28 PM]: Added Screensize to the data var: [1366, 768]
+[INFO]: [11/01/2024 10:39:28 PM]: Set color to: #2b2b28
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing BlpImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing BmpImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing BufrStubImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing CurImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing DcxImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing DdsImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing EpsImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing FitsImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing FliImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing FpxImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing FtexImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing GbrImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing GifImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing GribStubImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing IcnsImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing IcoImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing ImImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing ImtImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing IptcImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing JpegImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing McIdasImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing MicImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing MpegImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing MpoImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing MspImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing PalmImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing PcdImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing PcxImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing PdfImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing PixarImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing PngImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing PpmImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing PsdImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing QoiImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing SgiImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing SpiderImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing SunImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing TgaImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing TiffImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing WebPImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing WmfImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing XbmImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing XpmImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: Importing XVThumbImagePlugin
+[DEBUG]: [11/01/2024 10:39:28 PM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [11/01/2024 10:39:28 PM]: STREAM b'orNT' 161919 1
+[DEBUG]: [11/01/2024 10:39:28 PM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [11/01/2024 10:39:28 PM]: STREAM b'IDAT' 161932 6762
+[INFO]: [11/01/2024 10:39:28 PM]: Created label: logo
+[INFO]: [11/01/2024 10:39:28 PM]: Created label: title
+[INFO]: [11/01/2024 10:39:28 PM]: Created button: settings
+[INFO]: [11/01/2024 10:39:28 PM]: Created button: settings
+[INFO]: [11/01/2024 10:39:28 PM]: Created button: exit
+[INFO]: [11/01/2024 10:39:28 PM]: Created label: info
+[INFO]: [11/01/2024 10:39:28 PM]: Created label: link
+[INFO]: [11/01/2024 10:39:29 PM]: Set color to: #2b2b28
+[INFO]: [11/01/2024 10:39:29 PM]: Created scale: delay
+[INFO]: [11/01/2024 10:39:29 PM]: Created checkbox named: 2pager
+[INFO]: [11/01/2024 10:39:29 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:39:29 PM]: Created dropdown: models
+[INFO]: [11/01/2024 10:39:29 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:39:29 PM]: Created button: hotkey-button
+[INFO]: [11/01/2024 10:39:49 PM]: Checking if hack folder exists
+[INFO]: [11/01/2024 10:39:49 PM]: Checking if scholastic folder exists
+[INFO]: [11/01/2024 10:39:49 PM]: Checking if data exists
+[INFO]: [11/01/2024 10:39:49 PM]: fetched data.json
+[DEBUG]: [11/01/2024 10:39:49 PM]: Starting new HTTPS connection (1): api.zukijourney.com:443
+[DEBUG]: [11/01/2024 10:39:50 PM]: https://api.zukijourney.com:443 "GET /v1/models HTTP/1.1" 200 None
+[INFO]: [11/01/2024 10:39:50 PM]: Opening Main Page
+[INFO]: [11/01/2024 10:39:50 PM]: Added Screensize to the data var: [1366, 768]
+[INFO]: [11/01/2024 10:39:50 PM]: Set color to: #2b2b28
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing BlpImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing BmpImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing BufrStubImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing CurImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing DcxImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing DdsImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing EpsImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing FitsImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing FliImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing FpxImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing FtexImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing GbrImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing GifImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing GribStubImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing IcnsImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing IcoImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing ImImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing ImtImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing IptcImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing JpegImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing McIdasImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing MicImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing MpegImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing MpoImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing MspImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing PalmImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing PcdImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing PcxImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing PdfImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing PixarImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing PngImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing PpmImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing PsdImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing QoiImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing SgiImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing SpiderImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing SunImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing TgaImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing TiffImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing WebPImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing WmfImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing XbmImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing XpmImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: Importing XVThumbImagePlugin
+[DEBUG]: [11/01/2024 10:39:50 PM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [11/01/2024 10:39:50 PM]: STREAM b'orNT' 161919 1
+[DEBUG]: [11/01/2024 10:39:50 PM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [11/01/2024 10:39:50 PM]: STREAM b'IDAT' 161932 6762
+[INFO]: [11/01/2024 10:39:50 PM]: Created label: logo
+[INFO]: [11/01/2024 10:39:50 PM]: Created label: title
+[INFO]: [11/01/2024 10:39:50 PM]: Created button: settings
+[INFO]: [11/01/2024 10:39:50 PM]: Created button: settings
+[INFO]: [11/01/2024 10:39:50 PM]: Created button: exit
+[INFO]: [11/01/2024 10:39:50 PM]: Created label: info
+[INFO]: [11/01/2024 10:39:50 PM]: Created label: link
+[INFO]: [11/01/2024 10:39:51 PM]: Set color to: #2b2b28
+[INFO]: [11/01/2024 10:39:51 PM]: Created scale: delay
+[INFO]: [11/01/2024 10:39:51 PM]: Created checkbox named: 2pager
+[INFO]: [11/01/2024 10:39:51 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:39:51 PM]: Created dropdown: models
+[INFO]: [11/01/2024 10:39:51 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:39:51 PM]: Created button: hotkey-button
+[INFO]: [11/01/2024 10:39:59 PM]: Checking if hack folder exists
+[INFO]: [11/01/2024 10:39:59 PM]: Checking if scholastic folder exists
+[INFO]: [11/01/2024 10:39:59 PM]: Checking if data exists
+[INFO]: [11/01/2024 10:39:59 PM]: fetched data.json
+[DEBUG]: [11/01/2024 10:39:59 PM]: Starting new HTTPS connection (1): api.zukijourney.com:443
+[DEBUG]: [11/01/2024 10:40:00 PM]: https://api.zukijourney.com:443 "GET /v1/models HTTP/1.1" 200 None
+[INFO]: [11/01/2024 10:40:00 PM]: Opening Main Page
+[INFO]: [11/01/2024 10:40:00 PM]: Added Screensize to the data var: [1366, 768]
+[INFO]: [11/01/2024 10:40:00 PM]: Set color to: #2b2b28
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing BlpImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing BmpImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing BufrStubImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing CurImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing DcxImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing DdsImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing EpsImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing FitsImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing FliImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing FpxImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Image: failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing FtexImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing GbrImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing GifImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing GribStubImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing Hdf5StubImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing IcnsImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing IcoImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing ImImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing ImtImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing IptcImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing JpegImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing Jpeg2KImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing McIdasImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing MicImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Image: failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing MpegImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing MpoImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing MspImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing PalmImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing PcdImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing PcxImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing PdfImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing PixarImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing PngImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing PpmImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing PsdImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing QoiImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing SgiImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing SpiderImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing SunImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing TgaImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing TiffImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing WebPImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing WmfImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing XbmImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing XpmImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: Importing XVThumbImagePlugin
+[DEBUG]: [11/01/2024 10:40:00 PM]: STREAM b'IHDR' 161894 13
+[DEBUG]: [11/01/2024 10:40:00 PM]: STREAM b'orNT' 161919 1
+[DEBUG]: [11/01/2024 10:40:00 PM]: b'orNT' 161919 1 (unknown)
+[DEBUG]: [11/01/2024 10:40:00 PM]: STREAM b'IDAT' 161932 6762
+[INFO]: [11/01/2024 10:40:00 PM]: Created label: logo
+[INFO]: [11/01/2024 10:40:00 PM]: Created label: title
+[INFO]: [11/01/2024 10:40:00 PM]: Created button: settings
+[INFO]: [11/01/2024 10:40:00 PM]: Created button: settings
+[INFO]: [11/01/2024 10:40:00 PM]: Created button: exit
+[INFO]: [11/01/2024 10:40:00 PM]: Created label: info
+[INFO]: [11/01/2024 10:40:00 PM]: Created label: link
+[INFO]: [11/01/2024 10:40:02 PM]: Set color to: #2b2b28
+[INFO]: [11/01/2024 10:40:02 PM]: Created scale: delay
+[INFO]: [11/01/2024 10:40:02 PM]: Created checkbox named: 2pager
+[INFO]: [11/01/2024 10:40:02 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:40:02 PM]: Created dropdown: models
+[INFO]: [11/01/2024 10:40:02 PM]: Created button: boxes
+[INFO]: [11/01/2024 10:40:02 PM]: Created button: hotkey-button

@@ -1,5 +1,5 @@
 import keyboard as k
-
+# TODO: DELETE THIS WHEN YOU PUBLISH
 keyBefore=None
 pass
 while True:

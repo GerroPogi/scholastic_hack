@@ -1,6 +1,7 @@
+import logging
 from threading import Thread
 import keyboard
-from .window import Window,DraggableBox
+from .window import Box, Window,DraggableBox
 
 def format_hotkey(hotkey):
     formatedKeys=""
@@ -18,7 +19,7 @@ def setting(states):
     # Reader Option Section
     mainWin.add_box("reader-box",[400,150],color="#706463",pos=[50,10])
     
-    readerBox=mainWin.get_widget("reader-box")
+    readerBox:Box=mainWin.get_widget("reader-box")
     readerBox.add_label(
         "title",
         "Reader Options",
@@ -69,7 +70,7 @@ def setting(states):
     # Quiz Answerer Option Section
     mainWin.add_box("answerer-box",[400,150],color="#706463",pos=[50,200])
     
-    answerBox=mainWin.get_widget("answerer-box")
+    answerBox:Box=mainWin.get_widget("answerer-box")
     answerBox.add_label(
         "title",
         "Quiz Answerer Options",
@@ -100,7 +101,7 @@ def setting(states):
     
     # Other options section
     mainWin.add_box("others-box",[400,150],"#706463",[50,400])
-    othersBox=mainWin.get_widget("others-box")
+    othersBox:Box=mainWin.get_widget("others-box")
     othersBox.add_label(
         "title",
         "Others",
@@ -110,6 +111,7 @@ def setting(states):
         fg="white"
         )
     
+    # Hot key handling
     othersBox.add_label(
         "hotkey",
         f"Hotkey: {format_hotkey(states["data"]["hotkey"])}" ,
@@ -134,7 +136,8 @@ def setting(states):
             
             if len(new_hotkey)>=2:
                 break
-        print(new_hotkey)
+            
+        logging.info("Made a new hotkey: {0}".format(new_hotkey))
         othersBox.get_widget("hotkey").configure(text=f"Hotkey: {format_hotkey(new_hotkey)}")
         mainWin.update()
         
@@ -150,11 +153,31 @@ def setting(states):
         height=1
     )
     
+    # Getting key
+    othersBox.add_label(
+        "api-key-title",
+        "API Key"
+    )
+    
+    othersBox.add_entry(
+        "api-key",
+        default_entry=states["data"]["api-key"],
+        font=(states["font"],10),
+        pos=[200,60],
+        width=25,
+    )
+    
     mainWin.run()
     states["data"]["answerer"].update({"model":answerBox.get_widget("models")[1].get()}) # Because dropdown has no command argument
     return states
 
 def readerBoxes(master,states):
+    """The popup for the boxes when you click to adjust box settings for reader
+
+    Args:
+        master (hack.Window): The settings window that it originated. To be minimized
+        states (dict): The states that are passed around the program
+    """
     def onClose():
         master.deiconify()
         if readerData["2-page-mode"]:
@@ -222,6 +245,12 @@ def readerBoxes(master,states):
     return states
 
 def answerBoxes(master,states):
+    """The popup for the boxes when you click to adjust box settings for quiz answerer
+
+    Args:
+        master (hack.Window): The settings window that it originated. To be minimized
+        states (dict): The states that are passed around the program
+    """
     def onClose():
         master.deiconify()
         states["data"]["answerer"]={

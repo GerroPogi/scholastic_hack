@@ -48,5 +48,6 @@
         1366,
         768
     ],
-    "hotkey":["ctrl","1"]
+    "hotkey":["ctrl","1"],
+    "api-key":"Skibidi"
 }

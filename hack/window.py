@@ -149,9 +149,10 @@ class Box(tkinter.Frame):
             self.place(x=self.pos[0],y=self.pos[1])
         else:
             self.pack()
-    def add_entry(self,name:str,size:int = 10,default_entry="",font=('Arial 24'),pos=[]):
+    def add_entry(self,name:str,size:int = 10,default_entry="",font=('Arial 24'),pos=[],**kwargs):
         
         entry=tkinter.Entry(master=self,width=size,font=font,textvariable=default_entry)
+        entry.configure(**kwargs)
         if pos:
             entry.place(x=pos[0],y=pos[1])
         else:
