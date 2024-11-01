@@ -1,6 +1,11 @@
+import logging
 from threading import Thread
 import keyboard
-from .window import Window,DraggableBox
+
+from .utils import callback
+
+from .chat import check_api_key
+from .window import Box, Window,DraggableBox
 
 def format_hotkey(hotkey):
     formatedKeys=""
@@ -18,7 +23,7 @@ def setting(states):
     # Reader Option Section
     mainWin.add_box("reader-box",[400,150],color="#706463",pos=[50,10])
     
-    readerBox=mainWin.get_widget("reader-box")
+    readerBox:Box=mainWin.get_widget("reader-box")
     readerBox.add_label(
         "title",
         "Reader Options",
@@ -69,7 +74,7 @@ def setting(states):
     # Quiz Answerer Option Section
     mainWin.add_box("answerer-box",[400,150],color="#706463",pos=[50,200])
     
-    answerBox=mainWin.get_widget("answerer-box")
+    answerBox:Box=mainWin.get_widget("answerer-box")
     answerBox.add_label(
         "title",
         "Quiz Answerer Options",
@@ -100,7 +105,7 @@ def setting(states):
     
     # Other options section
     mainWin.add_box("others-box",[400,150],"#706463",[50,400])
-    othersBox=mainWin.get_widget("others-box")
+    othersBox:Box=mainWin.get_widget("others-box")
     othersBox.add_label(
         "title",
         "Others",
@@ -110,6 +115,7 @@ def setting(states):
         fg="white"
         )
     
+    # Hot key handling
     othersBox.add_label(
         "hotkey",
         f"Hotkey: {format_hotkey(states["data"]["hotkey"])}" ,
@@ -134,7 +140,8 @@ def setting(states):
             
             if len(new_hotkey)>=2:
                 break
-        print(new_hotkey)
+            
+        logging.info("Made a new hotkey: {0}".format(new_hotkey))
         othersBox.get_widget("hotkey").configure(text=f"Hotkey: {format_hotkey(new_hotkey)}")
         mainWin.update()
         
@@ -150,11 +157,73 @@ def setting(states):
         height=1
     )
     
+    # Getting key
+    othersBox.add_label(
+        "api-key-title",
+        "API Key",
+        font=(states["font"],10),
+        pos=[200,50],
+        bg="#706463",
+        fg="white"
+    )
+    
+    othersBox.add_entry(
+        "api-key",
+        default_entry=states["data"]["api-key"],
+        font=(states["font"],15),
+        pos=[200,80],
+        width=7,
+    )
+    
+    def check_if_valid_key():
+        api_entry=othersBox.get_widget("api-key").get()
+        valid= check_api_key(api_entry)
+        if valid[0]:
+            othersBox.get_widget("api-key-title").configure(text="API key - Valid",fg="lawn green")
+        else:
+            othersBox.get_widget("api-key-title").configure(text="API key -"+("Invalid key" if valid[1]==1 else "Invalid IP" if valid[1]==2 else "Unknown Error"),fg="indianred1")
+            
+    
+    othersBox.add_button(
+        "check-api",
+        "Check key",
+        lambda: Thread(target=check_if_valid_key).start(),
+        font=(states["font"],10),
+        bg="#ccb8b9",
+        pos=[300,80]
+    )
+    
+    othersBox.add_label(
+        "api-instructions",
+        "How to get your API Key",
+        "consolas 10",
+        bg="#706463",
+        fg="cyan",
+        cursor="hand2",
+        pos=[200,120]
+        )
+    othersBox.get_widget("api-instructions").bind("<Button-1>", lambda e: callback("https://github.com/GerroPogi/scholastic_hack/tree/draft1#how-to-get-api-key"))
+    
+    def onClose():
+        nonlocal states
+        states["data"]["answerer"].update({"model":answerBox.get_widget("models")[1].get()}) # Because dropdown has no command argument
+        states["data"]["api-key"]=othersBox.get_widget("api-key").get() # Because entry has no command argument
+        mainWin.destroy()
+        return states
+    
+    mainWin.protocol("WM_DELETE_WINDOW",onClose)
+    
     mainWin.run()
-    states["data"]["answerer"].update({"model":answerBox.get_widget("models")[1].get()}) # Because dropdown has no command argument
+    
     return states
 
 def readerBoxes(master,states):
+    """The popup for the boxes when you click to adjust box settings for reader
+
+    Args:
+        master (hack.Window): The settings window that it originated. To be minimized
+        states (dict): The states that are passed around the program
+    """
     def onClose():
         master.deiconify()
         if readerData["2-page-mode"]:
@@ -222,10 +291,16 @@ def readerBoxes(master,states):
     return states
 
 def answerBoxes(master,states):
+    """The popup for the boxes when you click to adjust box settings for quiz answerer
+
+    Args:
+        master (hack.Window): The settings window that it originated. To be minimized
+        states (dict): The states that are passed around the program
+    """
     def onClose():
         master.deiconify()
         states["data"]["answerer"]={
-            "size":mainWin.get_widget("size").get(),
+            "size":size,
             "question":questionBox.new_pos,
             "book": bookBox.new_pos,
         }
@@ -237,7 +312,6 @@ def answerBoxes(master,states):
     def update():
         nonlocal size
         size=mainWin.get_widget("size").get()
-        
         for value in choices.values():
             value.configure(width=60*size,height=15*size)
         
@@ -253,17 +327,17 @@ def answerBoxes(master,states):
     
     
 
-    bookBox=DraggableBox(size=[screensize[0]/2,70],color="#767a5d",master=mainWin)
+    bookBox=DraggableBox(size=[screensize[0]/2,70],color="#767a5d",master=mainWin,pos=answererData["book"])
     bookBox.add_label("text","Book",pos=[10,10])
     
     
-    questionBox=DraggableBox([screensize[0]-10,150],color="#767a5d",master=mainWin)
+    questionBox=DraggableBox([screensize[0]-10,150],color="#767a5d",master=mainWin,pos=answererData["question"])
     questionBox.add_label("text","Question",pos=[10,10])
     
     choices={}
     size=answererData["size"]
     for i,choice in enumerate("acbd"):
-        choices[choice]=DraggableBox(pos=[10+(650*(i//2)),300+(170*(i%2))],size=[60*size,15*size],color='#%02x%02x%02x' % (10*(i+1), 10*(i+1), 10*(i+1)),master=mainWin)
+        choices[choice]=DraggableBox(pos=answererData[choice],size=[60*size,15*size],color='#%02x%02x%02x' % (10*(i+1), 10*(i+1), 10*(i+1)),master=mainWin)
         choices[choice].add_label("text",choice.upper()+".",pos=[10,10])
         
         choices[choice].packs()
@@ -272,7 +346,13 @@ def answerBoxes(master,states):
     questionBox.packs()
     
     # Size scale
-    mainWin.add_scale("size",1,20,answererData["size"])
+    mainWin.add_scale(
+        "size",
+        1,
+        20,
+        answererData["size"]
+        )
+    print(mainWin.get_widget("size").get())
     
     
     # Size updater

@@ -28,16 +28,16 @@
         "model": "gpt-4o-mini"
     },
     "reader": {
-        "2-page-mode": true,
-        "delay": 249,
+        "2-page-mode": 1,
+        "delay": 254,
         "size": 2,
         "page1": [
             110,
             53
         ],
         "page2": [
-            929,
-            97
+            644,
+            64
         ]
     },
     "screen-size": [
@@ -48,5 +48,9 @@
         1366,
         768
     ],
-    "hotkey":["ctrl","1"]
+    "hotkey": [
+        "ctrl",
+        "1"
+    ],
+    "api-key": "zu-d88c14080bcfb68987039693e4a2791f"
 }
